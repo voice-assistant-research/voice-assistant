@@ -33,7 +33,7 @@ The number of duplicated privacy policy is:
 
 Here is how Amazon define the personal data and permission:
 
-![Permission](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/permission.png)
+![Permission](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/permerssion.png)
 
 ## Data practice
 Here are some privacy policy with low or zero data practice:
@@ -42,6 +42,16 @@ Here are some privacy policy with low or zero data practice:
 
 ![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example3.png)
 
+![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example4.png)
+
+![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example5.png)
+
+![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example6.png)
+
+![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example7.png)
+
+![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example8.png)
+
 ## Result
 
 
@@ -49,13 +59,13 @@ Here are some result about problematic skills:
 
 (1) Some skills have imcomplate policy:
 
-![Types of inomplete skills](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/p1e2645pm31q6811eb1d2814sehq4-17.jpg)
+![Types of inomplete skills](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/incomplete.png)
 
 And here is an example of them. It asks for device location but not mentions in privacy policy.
 
-![Example of incomplete skill](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/p1e2645pm31q6811eb1d2814sehq4-19.jpg)
+![Example of incomplete skill](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example1.png)
 
-And here are some other example skills:
+And is the skill link and some other example skills:
 [Record-Journal - Things to Do Calendar](https://www.amazon.com/Record-Journal-Things-to-Do-Calendar/dp/B07NC478M9/ref=sr_1_1?keywords=record+journal&qid=1582232641&s=digital-skills&sr=1-1)
 
 [FortiRecorder]
@@ -68,13 +78,13 @@ And here are some other example skills:
 
 (2) Some skills should provide a privacy policy but not:
 
-![Types of no_policy skills](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/p1e2645pm31q6811eb1d2814sehq4-24.jpg)
+![Types of no_policy skills](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example10.jpg)
 
 And here is an example:
 
-![Example of no_policy skill](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/p1e2645pm31q6811eb1d2814sehq4-27.jpg)
+![Example of no_policy skill](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example9.png)
 
-And here are some other example skills:
+Here is skill link andother example skills:
 
 [Heritage Flag Color]
 (https://www.amazon.com/Thomas-Anderson-Heritage-Flag-Color/dp/B01MR9JBWU/ref=sr_1_1?keywords=heritage+flag+color&qid=1582233183&s=digital-skills&sr=1-1)
