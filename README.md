@@ -82,7 +82,7 @@ And here is an example:
 
 ![Example of no_policy skill](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example9.png)
 
-Here is skill link andother example skills:
+Here is skill link and andother example skills:
 
 [Heritage Flag Color](https://www.amazon.com/Thomas-Anderson-Heritage-Flag-Color/dp/B01MR9JBWU/ref=sr_1_1?keywords=heritage+flag+color&qid=1582233183&s=digital-skills&sr=1-1)
 
