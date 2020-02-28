@@ -1,0 +1,1 @@
+access,ask,assign,collect,collection,create,enter,gather,import,obtain,observe,organize,provide,receive,request,share,use,include,integrate,monitor,process,see,utilize,retain,cache,delete,erase,keep,remove,store,transfer,communicate,disclose,reveal,sell,send,update,view,need,require
