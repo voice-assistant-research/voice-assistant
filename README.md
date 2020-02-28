@@ -17,30 +17,30 @@ The privacy policy and description can be found in folder dataset.
 
 The totally skill number in each category is:
 
-![Skill number of Alexa](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/p1e2645pm31q6811eb1d2814sehq4-1.jpg)
+![Skill number of Alexa](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/skill_number.png)
 
 The number of privacy policy is:
 
 
-![Number of privacy policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/p1e2645pm31q6811eb1d2814sehq4-2.jpg)
+![Number of privacy policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/goodpolicy.png)
 
 The number of duplicated privacy policy is:
 
-![Number of duplicated privacy policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/p1e2645pm31q6811eb1d2814sehq4-3.jpg)
+![Number of duplicated privacy policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/samepolicy.png)
 
 
 ## Data collection
 
 Here is how Amazon define the personal data and permission:
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/p1e2645pm31q6811eb1d2814sehq4-9.jpg)
+![Permission](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/permission.png)
 
 ## Data practice
-The analysis of data practice is as:
+Here are some privacy policy with low or zero data practice:
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/p1e2645pm31q6811eb1d2814sehq4-22.jpg)
+![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example2.png)
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/p1e2645pm31q6811eb1d2814sehq4-23.jpg)
+![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example3.png)
 
 ## Result
 
