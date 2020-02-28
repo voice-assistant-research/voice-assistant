@@ -44,9 +44,9 @@ Here are some privacy policy with low or zero data practice:
 
 ![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example4.png)
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example5.png)
+![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example5.jpg)
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example6.png)
+![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example6.jpg)
 
 ![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example7.png)
 
@@ -68,11 +68,9 @@ And here is an example of them. It asks for device location but not mentions in 
 And is the skill link and some other example skills:
 [Record-Journal - Things to Do Calendar](https://www.amazon.com/Record-Journal-Things-to-Do-Calendar/dp/B07NC478M9/ref=sr_1_1?keywords=record+journal&qid=1582232641&s=digital-skills&sr=1-1)
 
-[FortiRecorder]
-(https://www.amazon.com/Fortinet-FortiRecorder/dp/B079P35CGQ/ref=sr_1_1?keywords=fortirecorder&qid=1582232693&s=digital-skills&sr=1-1)
+[FortiRecorder](https://www.amazon.com/Fortinet-FortiRecorder/dp/B079P35CGQ/ref=sr_1_1?keywords=fortirecorder&qid=1582232693&s=digital-skills&sr=1-1)
 
-[Running Outfit Advisor]
-(https://www.amazon.com/CraftyC-Running-Outfit-Advisor/dp/B0735XW8LM/ref=sr_1_1?crid=24ZNWXDR4FZKZ&keywords=running+outfit+advisor&qid=1582232728&s=digital-skills&sprefix=Running+outfit+%2Calexa-skills%2C143&sr=1-1)
+[Running Outfit Advisor](https://www.amazon.com/CraftyC-Running-Outfit-Advisor/dp/B0735XW8LM/ref=sr_1_1?crid=24ZNWXDR4FZKZ&keywords=running+outfit+advisor&qid=1582232728&s=digital-skills&sprefix=Running+outfit+%2Calexa-skills%2C143&sr=1-1)
 
 
 
@@ -86,8 +84,6 @@ And here is an example:
 
 Here is skill link andother example skills:
 
-[Heritage Flag Color]
-(https://www.amazon.com/Thomas-Anderson-Heritage-Flag-Color/dp/B01MR9JBWU/ref=sr_1_1?keywords=heritage+flag+color&qid=1582233183&s=digital-skills&sr=1-1)
+[Heritage Flag Color](https://www.amazon.com/Thomas-Anderson-Heritage-Flag-Color/dp/B01MR9JBWU/ref=sr_1_1?keywords=heritage+flag+color&qid=1582233183&s=digital-skills&sr=1-1)
 
-[Name My Grandkids]
-(https://www.amazon.com/Cooper-Name-My-Grandkids/dp/B01EW3KUXC/ref=sr_1_1?keywords=name+my+grandkids&qid=1582233215&s=digital-skills&sr=1-1)
+[Name My Grandkids](https://www.amazon.com/Cooper-Name-My-Grandkids/dp/B01EW3KUXC/ref=sr_1_1?keywords=name+my+grandkids&qid=1582233215&s=digital-skills&sr=1-1)
