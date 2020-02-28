@@ -4,7 +4,7 @@ This project is about the research of voice assistant.
 
 Two platforms are mainly analyzed, Amazon skills and Google actions. 
 
-Here are dataset of privacy policy and description as well as our analysis result
+Here are dataset of privacy policy and description as well as our analysis result.
 
 
 ## Dataset
