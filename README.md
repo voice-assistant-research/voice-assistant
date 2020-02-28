@@ -65,7 +65,8 @@ And here is an example of them. It asks for device location but not mentions in 
 
 ![Example of incomplete skill](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example1.png)
 
-And is the skill link and some other example skills:
+Here is the skill link and some other example skills:
+
 [Record-Journal - Things to Do Calendar](https://www.amazon.com/Record-Journal-Things-to-Do-Calendar/dp/B07NC478M9/ref=sr_1_1?keywords=record+journal&qid=1582232641&s=digital-skills&sr=1-1)
 
 [FortiRecorder](https://www.amazon.com/Fortinet-FortiRecorder/dp/B079P35CGQ/ref=sr_1_1?keywords=fortirecorder&qid=1582232693&s=digital-skills&sr=1-1)
