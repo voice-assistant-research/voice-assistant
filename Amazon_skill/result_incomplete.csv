@@ -1,0 +1,3440 @@
+recommand,skillname,phrase,description,policy
+1,Call Handler,[ Your email address used.],"Call Handler rejects unwanted phone calls for you.  It also play 'on hold' music - just like an expensive phone system, allowing you to step away from calls to find a pen and paper (or just make coffee!).
+
+REJECTING UNWANTED CALLS
+
+Once you've identified a call as unwanted, simply cover the mouthpiece and say to Alexa:
+
+""Alexa, open Call Handler""
+""Alexa, ask Call Handler to take this""
+""Alexa, ask Call Handler to reject this call""
+
+Then place your phone down beside your Alexa device and she'll take it from there.
+
+Alexa will happily take on the role of your personal assistant.  She will politely - but firmly - reject the call.   She sometimes plays some hold music as well.  Finally, she will play a 'disconnected call' tone and make an additional announcements for very persistent callers.
+
+You're welcome to stay and listen, or just walk away and make coffee.  
+
+But don't forget that Alexa has no fingers, so she can't hang up your phone for you - remember to come back and do that after a minute or two.
+
+PLAYING ON-HOLD MUSIC:
+
+Call Handler can also play music while you put your caller on hold, just like a professional phone system.  So if you need to step away but plan to return to your call, you can say:
+
+""Alexa, ask Call Handler to play hold music""
+
+If you don't like the first track, you can interrupt and say ""Alexa, play something else"".  If you hear one you do like, you can save it as the default track by saying ""Alexa, remember this song"".   The music tracks vary in length from 1-3 minutes, hopefully giving you just enough time to do what you need to before continuing the call.  At the end of a track, Alexa will whisper a prompt,  asking if you want more music. She whispers because your caller may be listening.  Don't forget to pick up your call again!
+
+STANDBY MODE
+
+You can say ""Alexa, ask Call Handler to stay quiet"" to start the skill without prompts.  It will play a low beep every ten seconds.  Interrupt it by saying ""Alexa, take this call"".   If you have an Echo Show or Spot, you can touch a button instead.
+
+ONE-SHOT INVOCATIONS
+
+You can ask Call Hander to just get started, without prompting by saying:
+
+""Alexa, ask Call Handler to get rid of this caller""
+""Alexa, ask Call Handler to play hold music""
+""Alexa, tell Call Handler to disconnect""
+
+DISPLAY DEVICES
+
+- On  display devices like Echo Show and Spot, there are quick-access buttons for reject call, play hold music, help and stop.
+- While playing a call rejection message, tapping the button again chooses another message.
+- While playing hold music, tapping the button again selects another track at random.
+- While playing hold music, you can say ""Alexa, remember this track"", to save the current track as the default.
+- You can say Change voice to Brian, Amy, Matthew or Alexa, to save that voice as the default.
+- Say ""Alexa, clear settings"" to clear your saved music track and voice.
+
+USER GUIDE
+
+Call Handler can email you its new User Guide to help you get even more out of this skill.  The guide describes everything you can say to Call Handler in a bit more depth than the Help command.
+To request it, just say ""send me the user guide"" at any prompt.
+In order to send the email, Call Handler needs permission to access your email address and first name.  Your email address is used to deliver the User Guide.  Your name is used to personalise the message (""Dear Alex"", not ""Dear Customer""). This helps you and your email software to distinguish legitimate messages from spam.
+The first time you request the User Guide, the skill will ask you to grant these two permissions using the Home screen in your Alexa app.
+Once you have granted both permissions, just re-open the skill and ask for the User Guide again.
+
+FEEDBACK AND SUGGESTIONS
+
+Thank you for your reviews in the Alexa app. Send any ideas and suggestions to alexa-call-handler AT laldy.com.
+
+CREDIT
+
+Music: www.bensound.com","
+
+Skip to content
+
+Alexa Skills Showcase
+
+What do you say ?
+
+Menu
+
+  * Home
+  * Blog
+  * Contact
+  * About
+
+# Privacy
+
+Privacy Policy
+
+Last updated: July 29, 2019
+
+Laldy Labs is committed to protecting your privacy. We pledge to use
+information collected from this site responsibly. We will not sell, share, or
+rent this information, for commercial purposes, to any person or organisation
+outside our company and its support affiliates.
+
+This notice applies to all information collected from or submitted through
+this website, its associated voice or mobile applications, and sub-domains.
+This site and associated voice or mobile apps and sub-domains may contain
+links to other Web sites operated by third parties. Laldy Labs is not
+responsible for the privacy practices or policies of these sites. We encourage
+you to review the privacy policy of each site you visit.
+
+If you have any questions about this privacy policy, you can e-mail support at
+laldy.com.
+
+Information Collection and Use
+
+Our Website does not automatically collect personally identifiable information
+from each visitor. We do recognise and collect IP address, browser type, ISP,
+referring/exit pages, platform type, date/time stamp, number of clicks, domain
+name, and country/state. This information is used to analyse trends,
+administer the site, track visitors’ movement, and analyse broad demographic
+information.
+
+In order to offer and provide a customised, personal experience, this site
+uses cookies to store and help track your information. For example, we use
+cookies to help remind us who you are and to deliver content and services
+based on your account information. Cookies are simply pieces of information
+that are sent to your browser from a Web server and stored on your computer’s
+hard drive. The use of cookies is relatively standard and you will likely find
+them used on most other major Web sites. Most browsers are initially set up to
+accept cookies. You will not be able to use this site and/or associated voice
+or mobile apps if you set your browser to not accept cookies.
+
+In some areas of our site, we ask you to provide personally identifiable
+information. The personal information you provide will be kept confidential
+and used only to support your interactions with our company.
+
+Some features of our voice applications (“skills”) may request certain
+information from you for instance to personalise your experience while using
+the application, and to fulfil certain requests from you such as ordering
+documents to be delivered by email. Our applications request only the minimum
+information required to fulfil each function, and discard such information as
+you may grant upon fulfilment of your request.
+
+Report this ad
+
+Report this ad
+
+Registration
+
+To access some content and/or services, we may require visitors to register.
+During registration, a visitor is required to provide personal contact
+information. This information is used to notify the visitor about the services
+on our site for which they have registered. It is optional for the visitor to
+provide some information, but is encouraged so we can provide a more
+personalised experience.
+
+Newsletters and Special Promotions  
+If a visitor wishes to subscribe to our newsletters or special promotions, we
+ask for contact information such as name and e-mail address. We will not sell,
+share, or rent this information, for commercial purposes, to any third party
+person or organisation who is not directly supporting the operations of our
+company.
+
+Information Requests
+
+Questions and requests for information about our company, products, and
+services will be retained for follow up with individuals in addressing their
+specific inquiries. We may also contact you by mail or telephone regarding
+information on new products and services related to that request.
+
+Circumstances may arise where our company is legally required to disclose
+personal information to third parties such as in connection with a corporate
+divestiture or dissolution, or governmental investigations.
+
+Choice/Opt-out
+
+Laldy Labs will send you information about our various products and services.
+Visitors and customers who no longer wish to receive e-mail promotions or
+newsletters may opt-out of receiving these communications by completing an
+opt-out form that will be referenced in every communication.
+
+Notification of Changes
+
+From time to time, we may use customer information for new, unanticipated uses
+not previously disclosed in our privacy notice. If our information practices
+change at some time in the future, we will post and highlight the policy
+changes in our privacy policy this website.
+
+Security
+
+Personal information is handled with the same quality of care as all other
+company information to ensure the integrity and security of your data. Laldy
+Labs develops a variety of products and services for use by commercial
+customers. When you sign on to selected services, your password and user ID
+are automatically encrypted using Secure Sockets Layer (SSL) software so that
+they cannot be understood by a third party. When we ask users to provide
+sensitive information (such as a credit card number), that information is
+encrypted and protected with Secure Sockets Layer (SSL) encryption technology.
+While on a secure page, the lock icon on the bottom of your Web browser
+becomes locked. You can also identify the secure connection by looking at the
+URL, which will begin with https: (instead of http:).
+
+Report this ad
+
+Report this ad
+
+If you have any questions about this privacy policy, please contact us.
+
+### Share this:
+
+  * Twitter
+  * Facebook
+  * 
+
+### Like this:
+
+Like Loading...
+
+Search for:
+
+Create a website or blog at WordPress.com
+
+Create your website at WordPress.com
+
+Get started
+
+Privacy & Cookies: This site uses cookies. By continuing to use this website,
+you agree to their use.  
+To find out more, including how to control cookies, see here:  Cookie Policy
+
+  * Follow
+
+  *     * Alexa Skills Showcase
+    * Customize
+    * Follow
+    * Sign up
+    * Log in
+    * Copy shortlink
+    * Report this content
+    * Manage subscriptions
+    * Collapse this bar
+
+%d bloggers like this:
+
+  "
+1,The Transit Oracle (Bus Predictions for SF Muni),[ Your full address required.],"Uses your address to tell you the next bus time for the given route and direction. Works for SF Muni using the NextBus.
+
+Your full address is required to use this skill. 
+
+Reach out if you find a bug to satshabad.music+busoracle@gmail.com.
+
+Icon by: https://www.iconfinder.com/arunxthomas","
+    
+    
+    This privacy policy describes how The Transit Oracle (Satshabad Khalsa) (“The Transit Oracle”, “us” or “we”) protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy and our Alexa Skills Terms of Use, as well as the Alexa Terms of Use and the Privacy Policies by the Amazon Digital Services LLC (with its affiliates, “Amazon”).
+    
+    Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third party services (like our skills) and other related Software.
+    
+    If you use one of our skills you fully agree to this privacy policy.
+    
+    General
+    When you use our skills you have to talk to Alexa. This voice input is sent to Amazon and us where we use it to understand what our skill should do for you. This is absolutely necessary for our service to give you an appropriate answer.
+    
+    Data
+    We never collect or share personal data with our skills.
+    
+    To improve our services we analyze automatically how often utterances are spoken and other analytics. This is done automatically by Amazon in the Amazon Developer Portal.
+    
+    
+    Changes
+    Our skills or parts of it may change or be updated at any time. Further, this Privacy Policy might change. You can find a link to this policy on the description page of the skill in the Alexa App or in the Alexa Store. Your continued use of our skill after changes of the Privacy Policy or the skill itself will be seen as your acceptance of both.
+    
+    
+    We use Google's API, so by using this skill, their privacy policy also applies to you: https://www.google.com/policies/privacy
+    
+  "
+0.5,HOME-ISRAEL,"[the skill ask for email a password., the skill ask for an email.]","The Home-Israel ability is programmed to perform the control of electrical switches from the cell, with the alexa amazon application.
+
+This ability is equipped with the necessary programming for its interaction with the user is very easy.
+
+How can I use the Skill?
+
+To use the Home-Israel skill you just have to download it within the Alexa Amazon application, after it is installed, the skill will ask you for an email and a password these are enclosed in the back of each device previously purchased and supplied by the company INDUSTRIAS ISRAEL .
+
+After registering the email, the pedira skill performs a device search to what we accept and after 45 seconds the device we acquire appears online.
+Now we just have to change the name to our taste of dospisitovo and use the application of alxa to control it.","
+
+  * Privacy Policy 
+  * Terms of Use 
+
+_This Privacy Policy governs the way HOME-ISRAEL collects, uses, maintains and
+discloses the information collected from users (each, a ""User"") of the website
+https://industriasisrael.com (""Site"").  
+Personally Identifiable Information  
+We may collect personally identifiable information from Users in various ways,
+including, but not limited to, when Users visit our site, register on the site
+and in relation to other activities, services, features or resources that we
+make available on our Site. . Users can be requested, as appropriate, name,
+email address. However, users can visit our site anonymously. We will collect
+personally identifiable information from Users only if they voluntarily send
+us such information. Users can always refuse to provide personally
+identifiable information, except that they can prevent them from participating
+in certain activities related to the Site.  
+Non-personal identification information  
+We may collect non-personal identification information about Users when they
+interact with our Site. Non-personal identification information may include
+the name of the browser, the type of computer and technical information on the
+means of connecting Users to our Site, such as the operating system and
+Internet service providers used and other similar information.  
+Web browser cookies  
+Our site may use ""cookies"" to improve the user experience. The user's web
+browser places cookies on their hard drive for record keeping purposes and,
+sometimes, to track information about them. The user can choose to configure
+their web browser to reject cookies, or to alert them when cookies are sent.
+If they do, keep in mind that some parts of the Site may not work properly.  
+How we use the information collected  
+Sinric may collect and use the personal information of Users for the following
+purposes:  
+• To run and operate our site  
+We may need your information to display the content on the Site correctly.  
+• Customize the user experience.  
+We may use information together to understand how our Users as a group use the
+services and resources provided on our Site.  
+• To improve our site  
+We can use the comments you provide to improve our products and services.  
+• To run a promotion, contest, survey or other site feature  
+To send users information they agreed to receive on topics that we believe
+will be of interest.  
+• To send periodic emails  
+We can use the email address to send you information and updates related to
+your order.  
+How we protect your information  
+We adopt appropriate data collection, storage and processing practices and
+security measures to protect against unauthorized access, alteration,
+disclosure or destruction of your personal information, username, password,
+transaction information and data stored in our Site.  
+Share your personal information  
+We do not sell, exchange or rent personal identification information of Users
+to third parties. We may share generic aggregated demographic information not
+linked to any personally identifiable information regarding visitors and users
+with our business partners, trusted affiliates and advertisers for the
+purposes described above.  
+Compliance with the online child privacy protection law  
+Protecting the privacy of the very young is especially important. For that
+reason, we never collect or maintain information on our Site from those we
+know are under 13, and no part of our website is structured to attract
+children under 13._
+
+_Changes to this privacy policy  
+Sinric has the discretion to update this privacy policy at any time. When we
+do, we will review the updated date at the end of this page. We encourage
+users to check this page frequently to see if there are changes and stay
+informed about how we are helping to protect the personal information we
+collect. You acknowledge and agree that it is your responsibility to review
+this privacy policy periodically and be aware of the modifications.  
+Your acceptance of these terms.  
+By using this Site, you express your acceptance of this policy. If you do not
+agree with this policy, do not use our site. Your continued use of the Site
+after the publication of changes to this policy will be considered your
+acceptance of such changes.  
+Contacting us  
+If you have any questions about this Privacy Policy, the practices of this
+site or your dealings with this site, contact us.  
+This document was last updated on October 4, 2019.  
+IMPORTANT INFORMATION_
+
+  "
+0.5,W10,"[app account require account email password., app account require account email.]","W10 skill is W10 App solution kits, had include one smart hardware device. To user your Amazon Echo with your W10, make sure you have the latest Alexa app on your phone, you have your W10 skill, and activate the W10 Skill. This will require your W10 app account email and password to authorize Alexa to access your devices.
+To get started ,select the ""Enable Skill"" button in the Alexa App to link your W10 app account, Then the next step needs to be entered a special PIN Code.
+When using the skill, All disarm commands require a PIN Code.   For each command, you can supply the PIN code with the command or wait for Alexa to ask you for your PIN Code. 
+You can control the W10 device by EcHo,for example,you can say:
+1.Alexa,tell white cat arm
+2.Alexa,tell white cat disArm with PIN CODE XXX
+3.Alexa,tell white cat home arm
+4.Alexa,tell white cat to arm
+5.Alexa,tell white cat to disArm using PIN CODE XXX
+6.Alexa,tell white cat to home arm","
+
+集团其他网站
+
+  * 刻锐报警器官网
+  * 刻锐阿里巴巴站
+  * 刻锐呼叫器官网
+  * 刻锐无线门铃官网
+  * secruimall
+  * 联网报警器官网
+  * International
+
+关于思科瑞
+
+  * 首页
+  * 集团简介
+
+    * 集团简介
+    * 组织架构
+    * 荣誉资质
+    * 招贤纳士
+    * 合作单位
+深圳思科瑞电子有限公司专业生产防盗报警器家庭 智能防盗报警器
+
+  * 集团资讯
+
+    * 集团新闻
+    * 媒体报道
+    * 员工活动
+深圳思科瑞电子有限公司专业生产防盗报警器家庭 智能防盗报警器
+
+  * 集团产业
+
+    * ### 防盗系列
+
+    * ### 云端监控系列
+
+    * ### 门铃系列
+
+    * ### 迎宾器系列
+
+    * ### 呼叫器系列
+
+    * ### 探测器系列
+
+    * ### 安防单品系列
+
+  * 服务与支持
+
+    * 售后服务
+    * 常见问题
+    * 专业知识
+    * 安装教程
+    * 说明书下载
+    * App下载
+    * 视频操作
+    * 权限声明
+
+  * 创新展示
+  * 投资者关系
+  * 社会责任
+  * 联系我们
+
+    * 联系我们
+    * 销售网络
+    * 招商加盟
+深圳思科瑞电子有限公司专业生产防盗报警器家庭 智能防盗报警器 全国统一热线：400-011-6980
+
+首页>服务与支持>权限声明
+
+###
+
+# privacy policy/terms of use
+
+点击数：127 2017年07月21日 来源：
+
+Welcome! So you have purchased our Secrui device and are starting to use the
+devices! Any information you share with us (e.g. for creating a Secrui
+Account) will help us to provide you with services related to Secrui device
+and to improve them to make them even better. We explain here our ways of
+collecting and using information, and how we protect your privacy. In this
+privacy policy, “personal data” means information that can be used to identify
+an individual, either from that information alone, or from that information
+and other information we have access to about that individual. We collect both
+personal and non-personal data to enable and facilitate the best user
+experience possible.
+
+** **
+
+**What information is collected and how do we use it?** ****
+
+** **
+
+**Types of Personal Data Collected** ****
+
+• In order to provide our services to you, we will ask you to provide
+necessary personal data that is required to provide those services.
+
+• Set up and log in of Secrui Account.Personal data that are collected for
+creating a Secrui Account may include your email address or mobile phone
+number, device related information (e.g. IMEI number) and various location
+related information (e.g. location area code, mobile network and country
+codes).
+
+• Purchasing your Secrui products.When you make purchases through the Secrui
+e-commerce website or other 3rd party c-commerce website such as amazon, we
+may collect your Secrui Account ID (or mobile phone number or email addressed
+used to create your Secrui Account), name, phone number, delivery address and
+order details, etc. Secrui provides logistics services to deliver the products
+purchased on the e-commerce website. Secrui has an after sales system to
+handle after sales services for users. When you use these services, we may
+also collect the order number, invoice date, list of purchased items and your
+contact details in order to process the services.
+
+• Sync Secrui device data.When you synchronise the Secrui device data, e.g. to
+Secrui device Cloud Service, we may collect data relating to your activities
+and functionalities of Secrui device, such as those obtained from our sensors
+and features on Secrui device, your device on/off time, and smart alarm
+related information.
+
+• Sharing your content.When you share content or send information to family
+and friends, we may collect personal information of those people, such as
+their names, email addresses, telephone numbers, and mailing addresses (if we
+need to send a product to them). You hereby represent and warrant that you
+have obtained necessary consent for use of third parties’ personal data if you
+choose to provide them to us. When you share content or invite users to use
+Secrui device, please note that other users may see personal data you share.
+
+• Processing the services.In providing the above services, we may also collect
+data in relation to your device, including your Secrui device ID, firmware
+version, device OS version, model and system, and visiting IP and time.
+
+
+
+** **
+
+**How the Personal Data is used** ****
+
+• To provide you with our products and services, processing your orders,
+performing contractual obligations between you and us, to ensure the functions
+and safety of our products, to verify your identity, to prevent and trace
+fraudulent or inappropriate usage
+
+• To develop our products and services, together with general and statistical
+information
+
+• To communicate with you, including providing you with notifications on
+products and services that are updated or launched
+
+• To provide marketing and promotional materials to you on our products and
+services (please note that you may unsubscribe anytime)
+
+• To personalise product design and to provide you with services tailored for
+you, for example, recommending and displaying information and advertisements
+regarding products suited to you, and to invite you to participate in surveys
+relating to your use of Secrui device
+
+• To conduct investigations regarding our products and services
+
+• If you participate in our lottery, contest or other promotions, we may use
+your personal data to manage such activities
+
+• To provide maintenance services, monitor software licenses, to improve our
+products or analyse the efficiency of our operations
+
+** **
+
+**Other Information** ****
+
+We use statistical data that does not specifically identify you (non-personal
+data) to help in our operations and improve our products and services and
+provide a better user experience for you. Here are some of the non-personal
+data we may collect and how we use them:
+
+• When you create a Secrui Account, download our software, register in our
+e-commerce website, participate in online surveys or interact with us in other
+ways, we may collect your language preferences, postal code, area code number
+and time zone in which you use our products and services, and your profession.
+
+• When you opt-in to participate in our User Experience Improvement Program,
+we may gather statistics relating to your use of our products functions, on an
+anonymous basis. This may include information relating to your use of our
+official website, products and services. If there is an abnormal shutdown or
+breakdown, we may collect information relating to your mobile device to
+diagnose the problem.
+
+• When you use our services or functions that are based on location
+information, e.g. carry out a location search, take advantage of advertising,
+use weather functions, access information based on maps, etc., we may collect
+your geographical information.
+
+• When you use our website, online services, interactive applications, email
+messages and advertising, we may use cookies and other technical elements
+(e.g. pixel labels) to collect and store non-personal data. These enable us to
+provide you with a better experience and improve our overall service quality,
+e.g. in saving your preferred language settings, sending emails in a readable
+format, to determine whether the emails have been opened or not, etc.
+
+• When you use the Internet browser in using our products and services, we may
+collect log information, e.g. IP address, browser type, language, reference
+source, operating system, date and time marking and click rate data.
+
+• When you first use and activate your Secrui device, the device’s unique
+identification code and approximate geographical information may be collected.
+
+** **
+
+**You have control over your information!** ****
+
+We recognise that privacy concerns differ from person to person. Therefore, we
+provide examples of ways we make available for you to choose to restrict the
+collection, use, disclosure or processing of your personal data and control
+your privacy settings, such as controlling the settings under the User
+Experience Improvement Program, Location Access functions, and your Secrui
+Account.
+
+** **
+
+**Access, Updating or Correcting Your Personal Data** ****
+
+You have the right to request access and/or correction or any other personal
+data that we hold about you. When you update your personal data, you will be
+asked to verify your identity before we proceed with your request. Once we
+obtain sufficient information to accommodate your request for access or
+correction of your personal data, we shall process in accordance with the laws
+of your country. While we try our utmost in acceding to your requests,
+unreasonably repetitive or unrealistic requests or those that put others’
+privacy at risk may be declined. We normally provide such services for free
+but reserve the right to charge a reasonable fee. If you believe any
+information we are holding on you is incorrect or incomplete, please write to
+or email us as soon as possible at the email address below. Email:
+leanpo@163.com. For details relating to the personal data in your Secrui
+Account, you may also access and change them at Email: leanpo@163.com.
+
+** **
+
+**Withdrawal of Consent** ****
+
+You may withdraw your consent for the collection, use and/or disclosure of
+your personal data in our possession or control by submitting a request. This
+may be done by accessing your Secrui Account management center at Email: . We
+will process your request within a reasonable time from when the request was
+made, and thereafter not collect, use and/or disclose your personal data as
+per your request. Please recognise that your withdrawal of consent could
+result in certain legal consequences. Depending on the extent of your
+withdrawal of consent for us to process your personal data, it may mean that
+you will not be able to enjoy Secrui’s products and services.
+
+** **
+
+**Who do we share your information with?** ****
+
+Unless we tell you in this privacy policy, we will keep your personal
+information confidential. We may disclose your personal data on occasion to
+third parties in order to provide the products or services that you have
+requested. Some of these third parties may be located outside your home
+country.
+
+Disclosure may include the scenarios listed in this section below. In each
+case described in this section, you can be assured that Secrui will only share
+your personal data in accordance with your consent. You should know that when
+Secrui shares your personal data with a third party under any circumstance
+described in this section, Secrui will ensure that the third party is subject
+to practices and obligations to comply with the relevant data protection and
+privacy laws of your country. Secrui will contractually ensure compliance by
+any foreign Third Party Service Providers with the privacy standards that
+apply in your home jurisdiction.
+
+** **
+
+**Disclosure to Secrui group companies and Third Party Service Providers**
+****
+
+In order to conduct business operations smoothly, the Secrui entity which
+collects your personal data may disclose your personal data from time to time
+to other Secrui group companies (in communications, social media, technology
+or cloud business), or our third party service providers which are our mailing
+houses, delivery service providers, telecommunications companies, data
+centres, data storage facilities, and customer service providers, agents,
+related corporations, and/or other third parties (together “Third Party
+Service Providers”). Such Third Party Service Providers would be processing
+your personal data on Secrui’s behalf or for one or more of the purposes
+listed above. Personal data will only be shared by Secrui to provide or
+improve our products or services and will not be shared for use for marketing
+purposes.
+
+** **
+
+**Disclosure to Others** ****
+
+Secrui may disclose your personal data without further consent if required or
+permitted by law in the following cases:
+
+cases in which the disclosure is required or authorized based on the
+applicable laws and/or regulations; cases in which the disclosure is necessary
+to respond to an emergency that threatens the life, health or safety of the
+individual or another individual; cases in which the disclosure is necessary
+for the prevention of crime or legal proceedings; cases in which the purpose
+of such disclosure is clearly in the individual’s interests, and if consent
+cannot be obtained in a timely way; cases in which the disclosure is necessary
+for any investigation or proceedings; cases in which the disclosure is to any
+officer of a prescribed law enforcement agency upon production of written
+authorisation signed by the head or director of that law enforcement agency,
+or a person of a similar rank, certifying that the personal data is necessary
+for the purposes of the functions or duties of the officer; and/or cases in
+which the disclosure is to a public agency and such disclosure is necessary in
+the public interest.
+
+** **
+
+**Information Not Requiring Consent** ****
+
+We may share anonymised information and statistics in aggregate form with
+third parties for business purposes, for example with advertisers on our
+website, or we may tell our business partners the number of customers in
+certain demographic groups who purchased certain products or who carried out
+certain transactions. For the avoidance of doubt, in the event that we are
+permitted by law to collect, use or disclose your personal data without your
+consent, such permission granted by the law shall continue to apply.
+
+** **
+
+**Information Safety Safeguards** ****
+
+We are committed to ensuring that your personal data is secure. In order to
+prevent unauthorised access, disclosure or other similar risks, we have put in
+place reasonable physical, electronic and managerial procedures to safeguard
+and secure the information we collect. We have put in place the following
+security procedures and technical and organisational measures to safeguard
+your personal data. Information safety is very important to us. We will take
+all practicable steps to safeguard your personal data. Through our protective
+measures above, especially encrypted storage and transmission, your data is as
+secure as it can be. Certain details of encrypted data cannot be accessed by
+anyone except by you.
+
+** **
+
+**When this Privacy Policy applies** ****
+
+Our Privacy Policy does not apply to products and services offered by a third
+party. Secrui products and services may include third party’s products or
+services. When you use such products or services, they may collect your
+information too. For this reason, we strongly suggest you to read the third
+party’s privacy policy as you have taken time to read ours. We are not
+responsible for and cannot control how third parties use personal data which
+they collect from you. Our Privacy Policy does not apply to other sites linked
+from our services.
+
+** **
+
+**Minors** ****
+
+We consider it the responsibility of parents to monitor their children’s use
+of our products and services. Nevertheless, it is our policy not to require
+personal data from minors or offer to send any promotional materials to
+persons in that category. Secrui does not seek or intend to seek to receive
+any personal data from minors. Should a parent or guardian have reasons to
+believe that a minor has provided Secrui with personal data without their
+prior consent, please contact us to ensure that the personal data is removed
+and unsubscribe them from any of the applicable Secrui services. Our Services
+are not directed to individuals under 13. We do not knowingly collect personal
+information from children under 13. If we become aware that a child under 13
+has provided us with personal information, we will take steps to delete such
+information. If you become aware that a child has provided us with personal
+information, please contact us at leanpo@163.com.
+
+** **
+
+**Updates To The Privacy Policy** ****
+
+We keep our Privacy Policy under regular review. If we change our Privacy
+Policy, we will post the changes on Secrui websites, so that you may be aware
+of the information we collect and how we use it. Such changes to our Privacy
+Policy shall apply fro m the time that we post the same on the Secrui
+websites. Your continued use of products and services on the websites, mobile
+phones and/or any other device will be taken as acceptance of the updated
+Privacy Policy. We will seek your fresh consent before we collect more
+personal data from you or when we wish to use or disclose your personal data
+for new purposes. privacy policy/terms of use
+
+  * 首页
+  * 集团资讯
+  * 集团简介
+  * 集团产业
+  * 服务与支持
+  * 创新展示
+  * 投资者关系
+  * 社会责任
+  * 联系我们
+
+  *  
+
+  * 集团新闻
+  * 媒体报道
+  * 员工活动
+
+  * 集团简介
+  * 组织架构
+  * 荣誉资质
+  * 招贤纳士
+  * 合作单位
+
+  * 防盗系列
+  * 云端监控系列
+  * 门铃系列
+  * 迎宾器系列
+  * 呼叫器系列
+  * 探测器系列
+  * 安防单品系列
+
+  * 售后服务
+  * 常见问题
+  * 专业知识
+  * 安装教程
+  * 说明书下载
+  * App下载
+  * 视频操作
+  * 权限声明
+
+  * 创新展示
+
+  * 投资者关系
+
+  * 社会责任
+
+  * 联系我们
+  * 销售网络
+  * 招商加盟
+
+版权所有2011-2014 深圳市思科瑞电子有限公司 备案号：粤ICP备11022237号-4  全国统一服务热线:400-011-6980
+
+  "
+2,Bike Share,[Bike Share ask for your street name.],"NOTE: Bike Share only currently supports Citibike in New York City. Stay tuned for support for more bike share systems across the country!
+
+Bike Share allows you to quickly find the closest bike share station to your address with bikes available! Use it on the way out of the house in the morning to avoid walking to an empty station. If a station has less than 3 bikes available, Bike Share will also let you know  the next station that is more populated. 
+
+First, you need to add the address where your Amazon Echo resides. Start by saying:
+""Add an Address.""
+
+Alexa will prompt you, step by step, to add your address, starting with your house number. For example, if your address was 350 5th Avenue, 10118, when prompted for your house number, you would say ""three fifty"".
+
+Next, Bike Share will ask for your street name. Using the above example address, you would say ""fifth avenue"".
+
+Finally, Bike Share will ask for your zip code. In the above example, you would answer, ""one zero one one eight"".
+
+Once saved, you can then ask at any time to find the closest bike. Just say: ""find me a bike.""
+Alexa will remember your address indefinitely, so you'll never need to add an address again unless you move your Echo. 
+
+If you need to change your address, just tell Bike Share: ""change my address"". Alexa will ask if you want to overwrite your current address; if you respond ""yes"", you will be given the chance to enter a new address.","
+
+## PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
+
+
+
+This privacy policy governs your use of the software application Bike Share
+(“Application”) for mobile devices that was created by Ken Peltzer. The
+Application is an Amazon Echo app that looks for available bikes close by in
+an applicable Bike Share program.
+
+####  
+
+#### What information does the Application obtain and how is it used?
+
+
+
+**User Provided Information**  
+
+The Application obtains the information you provide when you download and
+register the Application. Registration with us is optional. However, please
+keep in mind that you may not be able to use some of the features offered by
+the Application unless you register with us.
+
+
+
+When you register with us and use the Application, you provide your current
+home address, as well as potentially other addresses associated with yourself.
+
+
+
+**Automatically Collected Information**  
+
+
+
+In addition, the Application may collect certain information automatically,
+including, but not limited to, the type of mobile device you use, your mobile
+devices unique device ID, the IP address of your mobile device, your mobile
+operating system, and information about the way you use the Application.
+
+
+
+####  
+
+#### Does the Application collect precise real time location information of
+the device?
+
+
+
+This Application does not collect precise information about the location of
+your mobile device.
+
+
+
+#### Do third parties see and/or have access to information obtained by the
+Application?
+
+
+
+No third parties have access to any data obtained by the application.
+
+
+
+#### What are my opt-out rights?
+
+
+
+You can stop all collection of information by the Application easily by
+uninstalling the Application. You may use the standard uninstall processes as
+may be available as part of your mobile device or via the mobile application
+marketplace or network.
+
+
+
+#### **Data Retention Policy, Managing Your Information**
+
+We will retain User Provided data for as long as you use the Application and
+for a reasonable time thereafter. We will retain Automatically Collected
+information for up to 24 months and thereafter may store it in aggregate. If
+you’d like us to delete User Provided Data that you have provided via the
+Application, please contact us at ken@kenpeltzer.com and we will respond in a
+reasonable time. Please note that some or all of the User Provided Data may be
+required in order for the Application to function properly.
+
+####  
+
+#### **Security**
+
+
+
+We are concerned about safeguarding the confidentiality of your information.
+We provide physical, electronic, and procedural safeguards to protect
+information we process and maintain. For example, we limit access to this
+information to authorized employees and contractors who need to know that
+information in order to operate, develop or improve our Application. Please be
+aware that, although we endeavor provide reasonable security for information
+we process and maintain, no security system can prevent all potential security
+breaches.
+
+
+
+#### **Changes**
+
+This Privacy Policy may be updated from time to time for any reason. We will
+notify you of any changes to our Privacy Policy by posting the new Privacy
+Policy here and informing you via email or text message. You are advised to
+consult this Privacy Policy regularly for any changes, as continued use is
+deemed approval of all changes. You can check the history of this policy by
+Insert the link of the version history on Docracy, available under.
+
+
+
+#### **Your Consent**
+
+By using the Application, you are consenting to our processing of your
+information as set forth in this Privacy Policy now and as amended by us.
+""Processing,” means using cookies on a computer/hand held device or using or
+touching information in any way, including, but not limited to, collecting,
+storing, deleting, using, combining and disclosing information, all of which
+activities will take place in the United States. If you reside outside the
+United States your information will be transferred, processed and stored there
+under United States privacy standards.
+
+
+
+#### Contact us
+
+If you have any questions regarding privacy while using the Application, or
+have questions about our practices, please contact us via email at
+ken@kenpeltzer.com .
+
+  "
+0.5,GoKit Light,"[app account require account email password., app account require account email.]","Description
+Gokit，is gizwits open kit ,is an intelligent hardware,To use your Amazon Echo with your Gokit, make sure you have the latest Alexa app on your device, you have your Gokit, and activate the Gizwits Skill. This will require your Gizwits app account email and password to authorize Alexa to access your devices.
+
+To get started, select the ""Enable Skill"" button in the Alexa App to link your Gizwits account and discover your devices. 
+
+When using the skill, you need to specify by name which device to use. You can set the devices' name in Gizwits app which controls your devices. And then you can control the devices' light.
+
+Your Gokit now talk directly to the Amazon Echo through the Alexa. 
+
+For example, turn on <device' name>
+
+if you have any questions, please visit gizwits website or email gizwits_echo@gizwits.com for further assistance.","
+
+文档中心
+
+机智云 文档中心 __
+
+__
+
+  * 平台概述
+  * 快速入门 ▾ 
+    * 5分钟了解机智云
+    * 机智云名词定义解释
+  * 应用开发 ▾ 
+    * App开发准备工作及向导
+    * App代码自动生成服务介绍
+    * App 开源框架 ▸ 
+      * iOS 开源框架说明(含源码)
+      * iOS 消息推送
+      * iOS 第三方登录与换肤
+      * iOS开源框架的快速开发实例
+      * Android 开源框架说明（含源码）
+      * Android 消息推送
+      * Android 第三方登录与换肤
+      * Android开源框架的快速开发实例
+      * APICloud开源框架使用指南(含源码)
+      * 开源框架使用视频教程
+    * App 开发 SDK ▸ 
+      * iOS SDK
+      * Android SDK
+      * APICloud SDK
+      * SDK数据透传方法解析
+      * SDK调试日志抓取教程
+      * SDK错误码列表
+    * 了解微信应用开发
+    * 微信应用开发教程
+    * 更多教程 ▸ 
+      * 设备分享功能SDK使用流程
+      * 第三方登录平台申请流程
+    * 应用开发FAQ
+  * 设备接入 ▾ 
+    * 设备接入准备工作及向导
+    * 设备快速接入机智云流程 ▸ 
+      * MCU+WiFi通讯模组接入机智云流程
+      * 通讯模组SoC方案接入机智云流程
+      * MCU+2G/4G通讯模组接入机智云流程
+      * MCU+NB通讯模组接入机智云流程
+      * 轻网关方案接入机智云流程
+    * 模块硬件资料
+    * GAgent通讯模组使用教程 ▸ 
+      * GAgent详细介绍
+      * 串口工具使用文档
+      * 合宙 Air202 串口烧写说明
+      * 通讯模组调试日志抓取教程
+    * WiFi模组接入方案 ▸ 
+      * A101模组接入机智云方案及问题排查指引
+      * ESP-WROOM-02DCUC接入机智云方案及问题排查指引
+      * ESP32-WROOM-32D接入机智云方案及问题排查指引
+      * 安信可ESP8266系列接入机智云方案及问题排查指引
+      * 四博ESP8266系列接入机智云方案及问题排查指引
+      * HF-LPX30系列接入机智云方案及问题排查指引
+      * HF-LPX20系列接入机智云方案及问题排查指引
+    * 2G/4G模组接入方案 ▸ 
+      * 博实结BC20模组接入机智云方案及问题排查指引
+      * 博实结BC23M模组接入机智云方案及问题排查指引
+      * 广和通G510模组接入方案
+      * 域格CLM920_NC3模组接入机智云方案及问题排查指引
+      * BLZ2261-P转接板接入机智云方案及问题排查指引
+      * 移远EC20接入机智云方案及问题排查指引
+      * GA211转接板使用说明
+    * NB模组接入方案 ▸ 
+      * N102转接板接入机智云方案及问题排查指引
+      * N256模组接入机智云方案及问题排查指引
+    * DTU(数据传送装置)接入方案 ▸ 
+      * GR515使用说明
+      * GN511使用说明
+    * MCU代码自动生成服务介绍 ▸ 
+      * MCU代码自动生成工具使用教程
+      * MCU SDK 通用平台移植教程
+      * STM32CubeMX移植机智云自动生成代码详解
+      * 8051平台最小资源裁剪说明
+    * 开源套件Gokit资料 ▸ 
+      * Gokit2 使用指南
+      * Gokit3系列开发套件简介
+      * Gokit3硬件手册
+      * GoKit3(S)使用说明书
+      * Gokit3(S)开发套件介绍
+      * GoKit3(S)开发环境搭建
+      * GoKit-SoC程序详解
+      * GoKit-MCU程序详解
+      * Gokit4(G) SoC开发环境搭建、开发指南
+    * 开发套件Arduino资料 ▸ 
+      * ArduinoUNOWiFi接入机智云介绍
+      * ArduinoUnoWiFi 之ESP8266固件烧写教程
+      * ArduinoUnoWiFi SDK之API介绍
+      * Arduino Uno WiFi智能小夜灯
+    * 工具资料 ▸ 
+      * 机智云串口调试助手
+      * 机智云串口调试助手（旧）
+      * 机智云日志打印工具
+    * 更多接入指南 ▸ 
+      * ECE Demo开发教程
+      * ST I-CUBE-GizWits套件快速接入指南
+    * 常见问题和解决方案 ▸ 
+      * Airlink配网排查引导
+      * Wifi模组入网之SoftAp配网方案
+      * 设备接入FAQ
+  * 云API ▾ 
+    * Open API 指南
+    * 企业应用开发
+    * 企业API
+    * SNoti API
+    * WebSocketAPI
+    * API使用教程 ▸ 
+      * 使用OpenAPI控制虚拟设备教程
+      * Snoti数据实时同步服务demo使用教程
+      * 使用Websocket 网页控制设备教程
+      * 使用聚合API教程
+      * 设备联动API使用教程
+      * 设备分组API使用教程
+      * APP绑定设备二维码生成教程
+    * 云端应用FAQ
+  * 用户手册 ▾ 
+    * 个人项目产品转企业项目产品
+    * OTA使用教程 ▸ 
+      * GAgent OTA教程
+      * MCU OTA教程
+    * 产测工具使用文档
+    * D3 Engine使用教程
+    * ECE雾计算使用教程
+    * 语音音箱接入教程 ▸ 
+      * 接入Echo开发教程
+      * 使用Echo音箱控制GoKit
+      * 使用Google Home音箱控制GoKit
+    * 实时大数据使用教程
+    * 全球部署方案
+
+__English
+
+__
+
+__
+
+热搜词
+
+APP
+
+SDK
+
+Android
+
+ios
+
+WIFI
+
+搜索结果 >
+
+目录
+
+  * What information is collected and how do we use it?
+  * Types of Personal Data Collected
+  * How the Personal Data is used
+  * Other Information
+  * You have control over your information!
+  * Access, Updating or Correcting Your Personal Data
+  * Withdrawal of Consent
+  * Who do we share your information with?
+  * Disclosure to Gizwits group companies and Third Party Service Providers
+  * Disclosure to Others
+  * Information Not Requiring Consent
+  * Information Safety Safeguards
+  * When this Privacy Policy applies
+  * Minors
+  * Updates To The Privacy Policy
+
+展开全部
+
+privacy policy/terms of use
+
+__文档编辑
+
+Welcome!  
+So you have purchased our Gizwits device and are starting to use the devices!
+Any information you share with us (e.g. for creating a Gizwits Account) will
+help us to provide you with services related to Gizwits device and to improve
+them to make them even better. We explain here our ways of collecting and
+using information, and how we protect your privacy. In this privacy policy,
+“personal data” means information that can be used to identify an individual,
+either from that information alone, or from that information and other
+information we have access to about that individual. We collect both personal
+and non-personal data to enable and facilitate the best user experience
+possible.  
+​
+
+# What information is collected and how do we use it?#
+
+## Types of Personal Data Collected#
+
+  * In order to provide our services to you, we will ask you to provide necessary personal data that is required to provide those services. 
+
+  * Set up and log in of Gizwits Account.Personal data that are collected for creating a Gizwits Account may include your email address or mobile phone number, device related information (e.g. IMEI number) and various location related information (e.g. location area code, mobile network and country codes).
+
+  * Purchasing your Gizwits products.When you make purchases through the Gizwits e-commerce website or other 3rd party c-commerce website such as amazon, we may collect your Gizwits Account ID (or mobile phone number or email addressed used to create your Gizwits Account), name, phone number, delivery address and order details, etc. Gizwits provides logistics services to deliver the products purchased on the e-commerce website. Gizwits has an after sales system to handle after sales services for users. When you use these services, we may also collect the order number, invoice date, list of purchased items and your contact details in order to process the services.
+
+  * Sync Gizwits device data.When you synchronise the Gizwits device data, e.g. to Gizwits device Cloud Service, we may collect data relating to your activities and functionalities of Gizwits device, such as those obtained from our sensors and features on Gizwits device, your device on/off time, and smart alarm related information.
+
+  * Sharing your content.When you share content or send information to family and friends, we may collect personal information of those people, such as their names, email addresses, telephone numbers, and mailing addresses (if we need to send a product to them). You hereby represent and warrant that you have obtained necessary consent for use of third parties’ personal data if you choose to provide them to us. When you share content or invite users to use Gizwits device, please note that other users may see personal data you share.
+
+  * Processing the services.In providing the above services, we may also collect data in relation to your device, including your Gizwits device ID, firmware version, device OS version, model and system, and visiting IP and time.
+
+​
+
+# How the Personal Data is used#
+
+  * To provide you with our products and services, processing your orders, performing contractual obligations between you and us, to ensure the functions and safety of our products, to verify your identity, to prevent and trace fraudulent or inappropriate usage
+
+  * To develop our products and services, together with general and statistical information
+
+  * To communicate with you, including providing you with notifications on products and services that are updated or launched
+
+  * To provide marketing and promotional materials to you on our products and services (please note that you may unsubscribe anytime)
+
+  * To personalise product design and to provide you with services tailored for you, for example, recommending and displaying information and advertisements regarding products suited to you, and to invite you to participate in surveys relating to your use of Gizwits device
+
+  * To conduct investigations regarding our products and services
+
+  * If you participate in our lottery, contest or other promotions, we may use your personal data to manage such activities
+
+  * To provide maintenance services, monitor software licenses, to improve our products or analyse the efficiency of our operations
+
+# Other Information#
+
+We use statistical data that does not specifically identify you (non-personal
+data) to help in our operations and improve our products and services and
+provide a better user experience for you. Here are some of the non-personal
+data we may collect and how we use them:
+
+  * When you create a Gizwits Account, download our software, register in our e-commerce website, participate in online surveys or interact with us in other ways, we may collect your language preferences, postal code, area code number and time zone in which you use our products and services, and your profession.
+
+  * When you opt-in to participate in our User Experience Improvement Program, we may gather statistics relating to your use of our products functions, on an anonymous basis. This may include information relating to your use of our official website, products and services. If there is an abnormal shutdown or breakdown, we may collect information relating to your mobile device to diagnose the problem.
+
+  * When you use our services or functions that are based on location information, e.g. carry out a location search, take advantage of advertising, use weather functions, access information based on maps, etc., we may collect your geographical information.
+
+  * When you use our website, online services, interactive applications, email messages and advertising, we may use cookies and other technical elements (e.g. pixel labels) to collect and store non-personal data. These enable us to provide you with a better experience and improve our overall service quality, e.g. in saving your preferred language settings, sending emails in a readable format, to determine whether the emails have been opened or not, etc.
+
+  * When you use the Internet browser in using our products and services, we may collect log information, e.g. IP address, browser type, language, reference source, operating system, date and time marking and click rate data.
+
+  * When you first use and activate your Gizwits device, the device’s unique identification code and approximate geographical information may be collected.  
+​
+
+# You have control over your information!#
+
+We recognise that privacy concerns differ from person to person. Therefore, we
+provide examples of ways we make available for you to choose to restrict the
+collection, use, disclosure or processing of your personal data and control
+your privacy settings, such as controlling the settings under the User
+Experience Improvement Program, Location Access functions, and your Gizwits
+Account.  
+​
+
+# Access, Updating or Correcting Your Personal Data#
+
+You have the right to request access and/or correction or any other personal
+data that we hold about you. When you update your personal data, you will be
+asked to verify your identity before we proceed with your request. Once we
+obtain sufficient information to accommodate your request for access or
+correction of your personal data, we shall process in accordance with the laws
+of your country. While we try our utmost in acceding to your requests,
+unreasonably repetitive or unrealistic requests or those that put others’
+privacy at risk may be declined.  
+We normally provide such services for free but reserve the right to charge a
+reasonable fee.  
+If you believe any information we are holding on you is incorrect or
+incomplete, please write to or email us as soon as possible at the email
+address below. Email: gizwits_echo@gizwits.com.  
+For details relating to the personal data in your Gizwits Account, you may
+also access and change them at Email: gizwits_echo@gizwits.com.  
+​
+
+# Withdrawal of Consent#
+
+You may withdraw your consent for the collection, use and/or disclosure of
+your personal data in our possession or control by submitting a request. This
+may be done by accessing your Gizwits Account management center at Email: . We
+will process your request within a reasonable time from when the request was
+made, and thereafter not collect, use and/or disclose your personal data as
+per your request.  
+Please recognise that your withdrawal of consent could result in certain legal
+consequences. Depending on the extent of your withdrawal of consent for us to
+process your personal data, it may mean that you will not be able to enjoy
+Gizwits’s products and services.  
+​
+
+# Who do we share your information with?#
+
+Unless we tell you in this privacy policy, we will keep your personal
+information confidential. We may disclose your personal data on occasion to
+third parties in order to provide the products or services that you have
+requested. Some of these third parties may be located outside your home
+country.
+
+Disclosure may include the scenarios listed in this section below. In each
+case described in this section, you can be assured that Gizwits will only
+share your personal data in accordance with your consent. You should know that
+when Gizwits shares your personal data with a third party under any
+circumstance described in this section, Gizwits will ensure that the third
+party is subject to practices and obligations to comply with the relevant data
+protection and privacy laws of your country. Gizwits will contractually ensure
+compliance by any foreign Third Party Service Providers with the privacy
+standards that apply in your home jurisdiction.
+
+# Disclosure to Gizwits group companies and Third Party Service Providers#
+
+In order to conduct business operations smoothly, the Gizwits entity which
+collects your personal data may disclose your personal data from time to time
+to other Gizwits group companies (in communications, social media, technology
+or cloud business), or our third party service providers which are our mailing
+houses, delivery service providers, telecommunications companies, data
+centres, data storage facilities, and customer service providers, agents,
+related corporations, and/or other third parties (together “Third Party
+Service Providers”). Such Third Party Service Providers would be processing
+your personal data on Gizwits’s behalf or for one or more of the purposes
+listed above.  
+Personal data will only be shared by Gizwits to provide or improve our
+products or services and will not be shared for use for marketing purposes.  
+​
+
+# Disclosure to Others#
+
+Gizwits may disclose your personal data without further consent if required or
+permitted by law in the following cases:
+
+cases in which the disclosure is required or authorized based on the
+applicable laws and/or regulations;  
+cases in which the disclosure is necessary to respond to an emergency that
+threatens the life, health or safety of the individual or another individual;  
+cases in which the disclosure is necessary for the prevention of crime or
+legal proceedings;  
+cases in which the purpose of such disclosure is clearly in the individual’s
+interests, and if consent cannot be obtained in a timely way;  
+cases in which the disclosure is necessary for any investigation or
+proceedings;  
+cases in which the disclosure is to any officer of a prescribed law
+enforcement agency upon production of written authorisation signed by the head
+or director of that law enforcement agency, or a person of a similar rank,
+certifying that the personal data is necessary for the purposes of the
+functions or duties of the officer; and/or  
+cases in which the disclosure is to a public agency and such disclosure is
+necessary in the public interest.  
+​
+
+# Information Not Requiring Consent#
+
+We may share anonymised information and statistics in aggregate form with
+third parties for business purposes, for example with advertisers on our
+website, or we may tell our business partners the number of customers in
+certain demographic groups who purchased certain products or who carried out
+certain transactions.  
+For the avoidance of doubt, in the event that we are permitted by law to
+collect, use or disclose your personal data without your consent, such
+permission granted by the law shall continue to apply.  
+​
+
+# Information Safety Safeguards#
+
+We are committed to ensuring that your personal data is secure. In order to
+prevent unauthorised access, disclosure or other similar risks, we have put in
+place reasonable physical, electronic and managerial procedures to safeguard
+and secure the information we collect. We have put in place the following
+security procedures and technical and organisational measures to safeguard
+your personal data.  
+Information safety is very important to us. We will take all practicable steps
+to safeguard your personal data. Through our protective measures above,
+especially encrypted storage and transmission, your data is as secure as it
+can be. Certain details of encrypted data cannot be accessed by anyone except
+by you.  
+​
+
+# When this Privacy Policy applies#
+
+Our Privacy Policy does not apply to products and services offered by a third
+party. Gizwits products and services may include third party’s products or
+services. When you use such products or services, they may collect your
+information too. For this reason, we strongly suggest you to read the third
+party’s privacy policy as you have taken time to read ours. We are not
+responsible for and cannot control how third parties use personal data which
+they collect from you. Our Privacy Policy does not apply to other sites linked
+from our services.  
+​
+
+# Minors#
+
+We consider it the responsibility of parents to monitor their children’s use
+of our products and services. Nevertheless, it is our policy not to require
+personal data from minors or offer to send any promotional materials to
+persons in that category. Gizwits does not seek or intend to seek to receive
+any personal data from minors. Should a parent or guardian have reasons to
+believe that a minor has provided Gizwits with personal data without their
+prior consent, please contact us to ensure that the personal data is removed
+and unsubscribe them from any of the applicable Gizwits services.  
+Our Services are not directed to individuals under 13. We do not knowingly
+collect personal information from children under 13. If we become aware that a
+child under 13 has provided us with personal information, we will take steps
+to delete such information. If you become aware that a child has provided us
+with personal information, please contact us at gizwits_echo@gizwits.com.  
+​
+
+# Updates To The Privacy Policy#
+
+We keep our Privacy Policy under regular review. If we change our Privacy
+Policy, we will post the changes on Gizwits websites, so that you may be aware
+of the information we collect and how we use it. Such changes to our Privacy
+Policy shall apply fro m the time that we post the same on the Gizwits
+websites. Your continued use of products and services on the websites, mobile
+phones and/or any other device will be taken as acceptance of the updated
+Privacy Policy. We will seek your fresh consent before we collect more
+personal data from you or when we wish to use or disclose your personal data
+for new purposes.  
+privacy policy/terms of use
+
+分享
+
+#### 微信扫一扫：分享
+
+微信里点“发现”，扫一下
+
+二维码便可将本文分享至朋友圈。
+
+项目登记 问题反馈 __
+
+机智云首页 关于我们 联系我们 加入我们
+
+©2011-2017; Gizwits IoT Technology Co., Ltd. 粤ICP备11090211号
+
+在线咨询
+
+x
+
+欢迎咨询，请问有什么可以帮您的吗？
+
+立即咨询
+
+以后再说
+
+发送
+
+  "
+0.5,WP6,"[app account require account email password., app account require account email.]","WP6 skill is WP6 App solution kits, had include one smart hardware device. To user your Amazon Echo with your WP6, make sure you have the latest Alexa app on your phone, you have your WP6 skill, and activate the WP6 Skill. This will require your WP6 app account email and password to authorize Alexa to access your devices.
+To get started ,select the ""Enable Skill"" button in the Alexa App to link your WP6 app account, Then the next step needs to be entered a special PIN Code.
+When using the skill, All disarm commands require a PIN Code.   For each command, you can supply the PIN code with the command or wait for Alexa to ask you for your PIN Code. 
+You can control the WP6 device by EcHo,for example,you can say:
+1.Alexa,tell smart egg arm
+2.Alexa,tell smart egg disArm with PIN CODE XXX
+3.Alexa,tell smart egg to arm
+4.Alexa,tell smart egg to disArm using PIN CODE XXX","
+
+Contact Us
+
+Site Map
+
+Home
+
+Facebook Twitter Pinterest AddThis0Share
+
+  * Home
+  * Products & Services
+  * Cooperation & Support
+  * News
+  * About Secrui
+  * Download
+  * Contact Us
+
+Company Profile
+
+Company Profile
+
+Corporate Culture
+
+Factory Pictures
+
+Certification
+
+  
+Secrui is the leading solution provider of security system!
+
+
+
+|
+
+We continuously innovate based on the customer demands, established the
+industry leading position in four major fields:security basic services,parts
+and systems, professional service and the terminal. Rely on the comprehensive
+advantages of GSM security system,fixed network security systems and
+electronic infrared fence fields,Secrui has become an intelligent security
+industry pioneer. At present, our products and solutions have already been
+applied into dozens of countries and served millions population around the
+world.
+
+
+
+We aim to ensure the safety and enrich people life for the vision, using
+professional experience in security field, to help people in different places
+of the equality and freedom to manage the information society,remove the
+digital divide.To challenge the increasingly serious climate change,Secrui
+through the leading green solutions helps customers reduce energy consumption
+and carbon dioxide emissions, creating the best social, economic and
+environmental benefits.
+
+  
+  
+---|---  
+  
+
+
+
+
+
+
+
+
+Secrui with innovative gene, and actively exerts advantage in the new market
+opportunities, doing unusual enterprise, seeking higher breakthrough is
+perserve thought idea of the enterprise.
+
+
+
+Secrui aims to keep promise and try one's best! Secrui culture rooted in
+Secrui staff heart which supports Secrui implementation of the global
+strategy, and provides dynamic for Secrui sustainable development.
+
+|  
+---|---  
+  
+About Us
+
+Shenzhen Secrui Electronic Co.,Ltd is found in 2008.  
+  
+we integrated the technology and design into people-oriented products to
+provide ""easy-to-use"" products and solutions, for global families and
+commercial clients.  
+  
+We have two SMT producing line, a professional technic team with 30
+hardware&Software engineers.
+
+
+
+
+
+More >>
+
+Site Map
+
+ABOUT SECRUI
+
+Company Profile Corporate Culture Factory Pictures
+
+PRODUCTS & SERVICE
+
+COOPERATION & SUPPORT
+
+DOWNLOAD
+
+NEWS
+
+Links:
+
+Baby monitor cone crusher digok online shopping Burglar alarm system Alipress
+flooring display rack
+
+Baby monitor cone crusher digok online shopping Burglar alarm system Alipress
+flooring display rack
+
+© 2011 Shenzhen Secrui Electronics Co.,Ltd. All rights reserved.  
+  
+---
+  "
+2,Record-Journal - Things to Do Calendar,[ Your device address used.],"Interactive access to all of the local event listings in Central Connecticut and beyond from the Record-Journal based on your location, radius, day, or time.
+
+To get started, all you have to say is, “Alexa, ask Record Journal what’s happening” or “Alexa, ask Record Journal what’s going on.”
+
+You can also specify a location, radius and day or time. Some example phrases are below:
+Alexa, ask Record Journal what’s going on tonight.
+Alexa, ask Record Journal what’s happening tomorrow afternoon.
+Alexa, ask Record Journal what’s happening this weekend.
+Alexa, ask Record Journal what’s going on next weekend in Austin, Texas.
+Alexa, ask Record Journal what’s going on in Boulder, Colorado on Saturday morning.
+Alexa, ask Record Journal what’s happening in Madison, Wisconsin on March 28.
+Alexa, ask Record Journal what’s happening within five miles of Santa Rosa, California.
+Alexa, ask Record Journal what’s going on tomorrow within ten miles of Provo, Utah.
+
+Permissions:
+*Device Address. Your device address will be used to provide responses with events local to your area.
+
+Tips:
+*If not otherwise specified, you will get today’s events.
+*Allowing access to your device location allows that to be your default location, when no location is specified.
+*To help Alexa understand what you say, it can be helpful to slightly pause after some words such as “ask”, and your city name.
+*To help Alexa identify your specified city, be sure to include the state as well.
+*To refine your results, you may specify time ranges such as morning, afternoon, or evening.
+*To refine your results you may include a date or date range such as December 9, tomorrow, this weekend, next Friday, or next weekend.
+
+Find more event details, create an account, or submit an event at http://www.myrecordjournal.com/things-to-do/","
+
+Hit enter to search or ESC to close
+
+____ ____
+
+  * HOME
+  * Services
+    * Platform
+    * Listings
+    * Ticketing
+    * Clients
+  * Events
+    * Find Events
+    * Submit Event
+    * Create Tickets
+  * Company
+    * About Us
+    * Team
+    * FAQ
+    * Contact
+  * SUBMIT EVENT
+
+## Privacy Policy
+
+Your privacy is very important to us. Accordingly, we have developed this
+privacy policy in order for you to understand how we collect, use, communicate
+and disclose and make use of personal information. The following outlines our
+privacy policy and applies to websites, apps, portals, widgets, voice
+interactions or use of any other platform providing content or interaction
+that is owned, operated, managed, or powered by CitySpark, Inc.
+
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+  * We will remove any personal information we have for a given user, upon request by the user.
+
+We are committed to conducting our business in accordance with these
+principles in order to ensure that the confidentiality of personal information
+is protected and maintained.
+
+Get CitySpark Event Platform »  SCHEDULE A DEMO
+
+  * FAQ
+  * Contact
+  * Privacy Policy
+  * Terms of Use
+
+  * Submit Events
+  * Find Events
+  * Promote Events
+  * Admin Login / Dashboard
+
+##### 801-673-3286
+
+9690 S 300 W, 3rd Floor  
+Sandy, UT 84070  
+sales@cityspark.com  
+
+© 2020 CitySpark. All Rights Reserved
+
+  * __
+  * __
+  * __
+  * __
+
+____
+
+  * HOME
+  * Services
+    * Platform
+    * Listings
+    * Ticketing
+    * Clients
+  * Events
+    * Find Events
+    * Submit Event
+    * Create Tickets
+  * Company
+    * About Us
+    * Team
+    * FAQ
+    * Contact
+  * SUBMIT EVENT
+
+  "
+2,CitySpark Events,[ Your device address used.],"CitySpark uses its proprietary technology to generate the most complete collection of local events anywhere, allowing you to find out about everything happening in your town or neighborhood.
+
+To get started, all you have to say is, “Alexa, ask CitySpark what’s happening” or “Alexa, ask CitySpark what’s going on.”
+
+You can also specify a location, radius and day or time.  Some example phrases are below:
+Alexa, ask CitySpark what’s going on tonight.
+Alexa, ask CitySpark what’s happening tomorrow afternoon.
+Alexa, ask CitySpark what’s happening this weekend.
+Alexa, ask CitySpark what’s going on next weekend in Austin, Texas.
+Alexa, ask CitySpark what’s going on in Boulder, Colorado on Saturday morning.
+Alexa, ask CitySpark what’s happening in Madison, Wisconsin on March 28.
+Alexa, ask CitySpark what’s happening within five miles of Santa Rosa, California.
+Alexa, ask CitySpark what’s going on tomorrow within ten miles of Provo, Utah.
+
+Permissions:
+*Device Address.  Your device address will be used to provide responses with events local to your area.
+
+Tips:
+*If not otherwise specified, you will get today’s events.
+*Allowing access to your device location allows that to be your default location, when no location is specified.
+*To help Alexa understand what you say, it can be helpful to slightly pause after some words such as “ask”, “CitySpark”, and your city name.
+*To help Alexa identify your specified city, be sure to include the state as well.
+*To refine your results, you may specify time ranges such as morning, afternoon, or evening.
+*To refine your results you may include a date or date range such as December 9, tomorrow, this weekend, next Friday, or next weekend.
+
+Find more event details, create an account, or submit an event at www.cityspark.com/calendar","
+
+Hit enter to search or ESC to close
+
+____ ____
+
+  * HOME
+  * Services
+    * Platform
+    * Listings
+    * Ticketing
+    * Clients
+  * Events
+    * Find Events
+    * Submit Event
+    * Create Tickets
+  * Company
+    * About Us
+    * Team
+    * FAQ
+    * Contact
+  * SUBMIT EVENT
+
+## Privacy Policy
+
+Your privacy is very important to us. Accordingly, we have developed this
+privacy policy in order for you to understand how we collect, use, communicate
+and disclose and make use of personal information. The following outlines our
+privacy policy and applies to websites, apps, portals, widgets, voice
+interactions or use of any other platform providing content or interaction
+that is owned, operated, managed, or powered by CitySpark, Inc.
+
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+  * We will remove any personal information we have for a given user, upon request by the user.
+
+We are committed to conducting our business in accordance with these
+principles in order to ensure that the confidentiality of personal information
+is protected and maintained.
+
+Get CitySpark Event Platform »  SCHEDULE A DEMO
+
+  * FAQ
+  * Contact
+  * Privacy Policy
+  * Terms of Use
+
+  * Submit Events
+  * Find Events
+  * Promote Events
+  * Admin Login / Dashboard
+
+##### 801-673-3286
+
+9690 S 300 W, 3rd Floor  
+Sandy, UT 84070  
+sales@cityspark.com  
+
+© 2020 CitySpark. All Rights Reserved
+
+  * __
+  * __
+  * __
+  * __
+
+____
+
+  * HOME
+  * Services
+    * Platform
+    * Listings
+    * Ticketing
+    * Clients
+  * Events
+    * Find Events
+    * Submit Event
+    * Create Tickets
+  * Company
+    * About Us
+    * Team
+    * FAQ
+    * Contact
+  * SUBMIT EVENT
+
+"
+2,Running Outfit Advisor,"[Alexa ask for gender temperature weather conditions., Alexa ask for gender temperature., Alexa ask for your gender.]","The Running Outfit Advisor provides running apparel recommendations based on current weather conditions in your area or based on your inputs. Choosing current weather conditions may prompt you to enable location permissions in your Alexa app. 
+Our exclusive apparel algorithm provides personalized apparel recommendations based on weather conditions and gender.
+
+If you choose apparel advice based current weather conditions, Alexa will pull temperature, humidity, wind speed, and other weather conditions based on your zip code. Alexa will prompt you for your gender and create a personalized recommendation based on our exclusive apparel algorithm.
+
+If you select running outfit advice based on your inputs, Alexa will ask you for your gender, temperature, weather conditions (sunny, windy, cloudy, or raining), and your run intensity (easy run, or race) and create a personalized recommendation based on our exclusive apparel algorithm. Feel free to adjust based on your personal preference. This is only intended to be a guide.","
+
+# The best places, races, and running tribes in Atlanta
+
+__ __ __ __ __
+
+  * Home
+  * Places
+  * Races
+  * Tribes
+  * Contact
+
+## Privacy Policy
+
+We are committed to safeguarding the privacy of our users; this policy sets
+out how we will treat your personal information. We recognize the significance
+of protecting information which is stored on our computers or is intended to
+be stored on our computers and which relates to an individual.
+
+The data we protect are the “Personal Data” which is any information relating
+to an identified or identifiable natural person, sometimes called a data
+subject, and have made protecting privacy and the confidentiality of Personal
+Data a fundamental component of the way we do business. This Privacy Policy
+informs you of the ways we ensure privacy and the confidentiality of Personal
+Data. We are compliant with applicable privacy laws in the countries in which
+we operate. This policy describes the information we gather, how we may use
+those Personal Data and the circumstances under which we may disclose such
+information to third parties.
+
+(1) WHAT INFORMATION DO WE COLLECT?  
+We may collect, store and use the following kinds of information and personal
+data (“Collected Information”):  
+(a) information about your visits to and use of our app;  
+(b) information that you provide to us for the purpose of registering with us
+and/or subscribing to our website services and/or email notifications.
+
+(c) Amazon Alexa “My Training Plan” Skill collects and stores nickname or
+first name as provided by the user, current active training plan, race date,
+and other non-personally identifiable information provided by the user to in
+order for the skill to output the user’s individual workout. This information
+is never shared to any 3rd party entities.
+
+German Translation of (c): Amazon Alexa-Fähigkeit „Mein Trainingsplan“ sammelt
+und speichert Spitznamen oder Vornamen, wie vom Benutzer angegeben, den
+aktuellen aktiven Trainingsplan, das Renntermin und andere nicht persönlich
+identifizierbare Informationen, die vom Benutzer bereitgestellt werden, damit
+die Fähigkeit den Benutzer ausgeben kann individuelles Training. Diese
+Informationen werden niemals an Dritte weitergegeben.
+
+(2) USING COLLECTED INFORMATION  
+Collected Information, including personal data submitted on this website
+(i.e., data that can be used to identify, contact or locate an individual)
+will be used for the purposes specified in this privacy policy or in relevant
+parts of the website.
+
+We may use all Collected Information, including your personal information to:  
+(a) administer and improve this app’s usability;  
+(b) improve your browsing experience by personalizing the app;  
+(c) send information (other than marketing communications) to you which we
+think may be of interest to you by post or by email or similar technology;  
+(d) send to you marketing communications relating to our business or the
+businesses of carefully-selected third parties which we think may be of
+interest to you by post or, where you have specifically agreed to this, by
+email or similar technology.  
+(e) for other marketing purposes and to provide other companies with
+statistical information about our users. Information we provide to other
+companies will not identify any individual user.
+
+(3) DATA SHARING POLICY  
+We do not sell, trade, or otherwise transfer to outside parties.
+
+(4) SECURITY OF YOUR PERSONAL DATA  
+We will take reasonable precautions to prevent the loss, misuse or alteration
+of your personal information. Data transmission over the Internet is
+inherently insecure and we cannot guarantee the security of data sent over the
+Internet. We will store all the personal information you provide on our secure
+servers. You are responsible for keeping your passwords confidential. We will
+not ask you for your passwords.
+
+(5) COPPA (Children Online Privacy Protection Act)  
+We do not specifically market to children under the age of 13 years old.  
+When it comes to the collection of personal information from children under
+the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA)
+puts parents in control. The Federal Trade Commission, United States’ consumer
+protection agency, enforces the COPPA Rule, which spells out what operators of
+websites and online services must do to protect children’s privacy and safety
+online.
+
+(6) CONTACT  
+If you have any questions about this privacy policy or our treatment of your
+personal data, please write to us by email to thecarolinedunn (at) gmail.com
+or by post to 925B Peachtree St. NE, Suite 182, Atlanta, GA 30309.
+
+#### About
+
+This website is intended to provide a resource of the best Atlanta places,
+races, and running groups from experienced runners. Over 250 surveys were
+completed with 88% of survey respondents having 2 years or more of Atlanta
+running experience. All lists are numbered in “reverse order” from least
+popular to most popular with the last entry **#1** = most popular response.
+
+© 2020 Atlanta Running Guide  Privacy Policy
+
+__ __ __ __ __
+
+  "
+1,ISS: Distance From Me?,[This skill uses your device's location.],"This skill uses your device's location to calculate exactly how far the International Space Station (ISS) is.
+
+Have you ever looked up at the sky and wondered how far some of the things out there are? Well, me too. One ""thing"" I've always been interested in is the International Space Station because humans actually live up there. Satisfy your curiosity by saying ""Alexa, ask Space Station how far away it is"" to receive the real-time distance between you and the ISS.
+
+Thank you for your interest in space!
+
+NOTE: For this skill to work, you'll have to enable device location permissions. The device location that will be used in the distance calculation is whatever you have manually input as the device location. Please ensure that the address is accurate.
+
+If you have any feedback, suggestions, or general concerns please reach out to our team at contact@sublimitylabs.com!","
+
+TutorialsTemplatesCoursesRegisterLoginLogout
+
+## Privacy Policy
+
+#### Last updated: May 24, 2018
+
+Dabble Lab is committed to protecting your privacy. We pledge to use
+information collected from this site responsibly. We will not sell, share, or
+rent this information, for commercial purposes, to any person or organization
+outside our company and its support affiliates.
+
+This notice applies to all information collected from or submitted through
+this website, its associated mobile applications, and sub-domains. This site
+and associated mobile apps and sub-domains may contain links to other Web
+sites operated by third parties. Dabble Lab is not responsible for the privacy
+practices or policies of these sites. We encourage you to review the privacy
+policy of each site you visit.
+
+If you have any questions about this privacy policy, you can e-mail support at
+dabblelab.com.
+
+#### Information Collection and Use
+
+Our Website does not automatically collect personally identifiable information
+from each visitor. We do recognize and collect IP address, browser type, ISP,
+referring/exit pages, platform type, date/time stamp, number of clicks, domain
+name, and country/state. This information is used to analyze trends,
+administer the site, track visitors’ movement, and analyze broad demographic
+information.
+
+In order to offer and provide a customized, personal experience, this site
+uses cookies to store and help track your information. For example, we use
+cookies to help remind us who you are and to deliver content and services
+based on your account information. Cookies are simply pieces of information
+that are sent to your browser from a Web server and stored on your computer’s
+hard drive. The use of cookies is relatively standard and you will likely find
+them used on most other major Web sites. Most browsers are initially set up to
+accept cookies. You will not be able to use this site and/or associated mobile
+apps if you set your browser to not accept cookies.
+
+In some areas of our site, we ask you to provide personally identifiable
+information. The personal information you provide will be kept confidential
+and used only to support your interactions with our company.
+
+#### Registration
+
+To access some content and/or services, we may require visitors to register.
+During registration, a visitor is required to provide personal contact
+information. This information is used to notify the visitor about the services
+on our site for which they have registered. It is optional for the visitor to
+provide some information, but is encouraged so we can provide a more
+personalized experience.
+
+#### Newsletters and Special Promotions
+
+If a visitor wishes to subscribe to our newsletters or special promotions, we
+ask for contact information such as name and e-mail address. We will not sell,
+share, or rent this information, for commercial purposes, to any third party
+person or organization who is not directly supporting the operations of our
+company.
+
+#### Information Requests
+
+Questions and requests for information about our company, products, and
+services will be retained for follow up with individuals in addressing their
+specific inquiries. We may also contact you by mail or telephone regarding
+information on new products and services related to that request.
+
+Circumstances may arise where our company is legally required to disclose
+personal information to third parties such as in connection with a corporate
+divestiture or dissolution, or governmental investigations.
+
+#### Choice/Opt-out
+
+Dabble Lab will send you information about our various products and services.
+Visitors and customers who no longer wish to receive e-mail promotions or
+newsletters may opt-out of receiving these communications by completing an
+opt-out form that will be referenced in every communication.
+
+#### Notification of Changes
+
+From time to time, we may use customer information for new, unanticipated uses
+not previously disclosed in our privacy notice. If our information practices
+change at some time in the future, we will post and highlight the policy
+changes in our privacy policy this website.
+
+#### Security
+
+Personal information is handled with the same quality of care as all other
+company information to ensure the integrity and security of your data. Dabble
+Lab develops a variety of products and services for use by commercial
+customers. When you sign on to selected services, your password and user ID
+are automatically encrypted using Secure Sockets Layer (SSL) software so that
+they cannot be understood by a third party. When we ask users to provide
+sensitive information (such as a credit card number), that information is
+encrypted and protected with Secure Sockets Layer (SSL) encryption technology.
+While on a secure page, the lock icon on the bottom of your Web browser
+becomes locked. You can also identify the secure connection by looking at the
+URL, which will begin with https: (instead of http:).
+
+If you have any questions about this privacy policy, please **contact us**.
+
+© Dabble Lab 2019. All rights reserved.  
+
+About UsContact Us
+
+  "
+0.5,K5,"[app account require account email password., app account require account email.]","K5 skill is K5 App solution kits, had include one smart hardware device. To user your Amazon Echo with your K5, make sure you have the latest Alexa app on your phone, you have your K5 skill, and activate the K5 Skill. This will require your K5 app account email and password to authorize Alexa to access your devices.
+To get started ,select the ""Enable Skill"" button in the Alexa App to link your K5 app account, Then the next step needs to be entered a special PIN Code.
+When using the skill, All disarm commands require a PIN Code.   For each command, you can supply the PIN code with the command or wait for Alexa to ask you for your PIN Code. 
+You can control the K5 device by EcHo,for example,you can say:
+1.Alexa,tell smart tiger arm
+2.Alexa,tell smart tiger disArm with PIN CODE XXXX
+3.Alexa,tell smart tiger homeArm
+4.Alexa,tell smart tiger to arm
+5.Alexa,tell smart tiger to disArm using PIN CODE XXXX
+6.Alexa,tell smart tiger to homeArm","
+
+Contact Us
+
+Site Map
+
+Home
+
+Facebook Twitter Pinterest AddThis0Share
+
+  * Home
+  * Products & Services
+  * Cooperation & Support
+  * News
+  * About Secrui
+  * Download
+  * Contact Us
+
+Company Profile
+
+Company Profile
+
+Corporate Culture
+
+Factory Pictures
+
+Certification
+
+  
+Secrui is the leading solution provider of security system!
+
+
+
+|
+
+We continuously innovate based on the customer demands, established the
+industry leading position in four major fields:security basic services,parts
+and systems, professional service and the terminal. Rely on the comprehensive
+advantages of GSM security system,fixed network security systems and
+electronic infrared fence fields,Secrui has become an intelligent security
+industry pioneer. At present, our products and solutions have already been
+applied into dozens of countries and served millions population around the
+world.
+
+
+
+We aim to ensure the safety and enrich people life for the vision, using
+professional experience in security field, to help people in different places
+of the equality and freedom to manage the information society,remove the
+digital divide.To challenge the increasingly serious climate change,Secrui
+through the leading green solutions helps customers reduce energy consumption
+and carbon dioxide emissions, creating the best social, economic and
+environmental benefits.
+
+  
+  
+---|---  
+  
+
+
+
+
+
+
+
+
+Secrui with innovative gene, and actively exerts advantage in the new market
+opportunities, doing unusual enterprise, seeking higher breakthrough is
+perserve thought idea of the enterprise.
+
+
+
+Secrui aims to keep promise and try one's best! Secrui culture rooted in
+Secrui staff heart which supports Secrui implementation of the global
+strategy, and provides dynamic for Secrui sustainable development.
+
+|  
+---|---  
+  
+About Us
+
+Shenzhen Secrui Electronic Co.,Ltd is found in 2008.  
+  
+we integrated the technology and design into people-oriented products to
+provide ""easy-to-use"" products and solutions, for global families and
+commercial clients.  
+  
+We have two SMT producing line, a professional technic team with 30
+hardware&Software engineers.
+
+
+
+
+
+More >>
+
+Site Map
+
+ABOUT SECRUI
+
+Company Profile Corporate Culture Factory Pictures
+
+PRODUCTS & SERVICE
+
+COOPERATION & SUPPORT
+
+DOWNLOAD
+
+NEWS
+
+Links:
+
+Baby monitor cone crusher digok online shopping Burglar alarm system Alipress
+flooring display rack
+
+Baby monitor cone crusher digok online shopping Burglar alarm system Alipress
+flooring display rack
+
+© 2011 Shenzhen Secrui Electronics Co.,Ltd. All rights reserved.  
+  
+---
+  "
+1,Novant Health,[User asks Get nearby locations.],"Welcome to Novant Health Alexa Skill. Novant Health has over 500 locations in North Carolina and some locations in South Carolina. Read the information below to get the best experience possible from your Novant Health Alexa Skill. 
+
+Use this skill to find Novant Health medical locations with details like wait times, opening and closing hours and days and whether a location provides flu shots, x-rays, etc... and can be filtered by specialties like Urgent Cares, Medical Centers, Express Cares, Emergency rooms, Clinics, Pharmacy, Orthopedic, Neurology, Pediatrics, Cardiology, etc... Simply follow the instructions below to begin.
+Note: Remember to speak clearly.
+User case 1:
+- User says ""Ask Novant Health""
+- Alexa gives intro and instructions
+- User then asks ""Get nearby locations""
+- Note: Continue following instructions from Alexa.
+User case 2:
+- User says ""Ask Novant Health""
+- Alexa gives intro and instructions
+- User then asks ""Find a location""
+- Note: Continue following instructions from Alexa.
+-----------------------------------------------------------
+You can find Novant Health locations starting by
+these methods:
+
+1. Nearby Locations
+2. City and State
+3. Name of the Location
+
+You can send the information to your Alexa Application. When sending the information to your Alexa Appllication, you will be sending several pieces of data:
+1. Map of the location
+2. Address
+3. Phone
+4. Special information like whether the location gives Flu shots, walk-in available, x-ray service, etc..
+5. Let's you know whether or not the location is open or closed.
+6. Gives you operational hours and days.
+7. Let's you know if the location has wait times available or not and if so it will give you the current wait time.
+
+The Novant Health Alexa App will continue to grow and develop with more and improved features over time. We welcome and enjoy your feedback and ideas to the email address SpokenApps@NovantHealth.org and visit us on the web at http://www.novanthealth.org","
+
+No Site Message for Portal: 92
+
+### Top menu
+
+Menu +
+
+  * Find a doctor
+  * Find a location
+  *     * Careers
+    * Make an appointment
+  *     * _for_ Healthcare providers
+    * _for_ Employees
+
+undefined
+
+  * Go
+  * Find a doctor
+  * Find a location
+  *     * Careers
+    * Make an appointment
+  *     * _for_ Healthcare providers
+    * _for_ Employees
+
+Welcome to Novant Health Go
+
+Español
+
+Select Language​▼
+
+  * Our locations
+
+    * Hospitals & medical centers
+      * Brunswick Medical Center
+      * Charlotte Orthopedic Hospital
+      * Clemmons Medical Center
+      * Forsyth Medical Center
+      * Hemby Children's Hospital
+      * Huntersville Medical Center
+      * Kernersville Medical Center
+    *  
+      * Matthews Medical Center
+      * Medical Park Hospital
+      * Mint Hill Medical Center
+      * Presbyterian Medical Center
+      * Rehabilitation Hospital, an affiliate of Encompass Health
+      * Rowan Medical Center
+      * Thomasville Medical Center
+    * More locations 
+      * Emergency rooms
+      * Urgent care
+      * Walk-in care
+      * Clinics & outpatient centers
+      * Imaging centers
+      * Surgery centers
+
+    * Pay your bill
+    * Find a doctor
+
+  * Services
+
+    * Cancer Institute
+      * Cancer
+      * Infusion services
+    * Community Health & Wellness Institute
+      * Diabetes & nutrition
+      * Family medicine & primary care
+      * Urgent & walk-in care
+    * Heart & Vascular Institute
+    * Hospital-Based Medicine Institute
+      * Emergency medicine
+      * Hospice care
+      * Palliative care
+      * Inpatient care
+      * Wound care
+    * Neurosciences & Psychiatry Institute
+      * Behavioral Health
+      * Neurology & Neurosurgery
+      * Sleep health
+      * Stroke & mini-stroke
+    * Orthopedics & Sports Medicine Institute
+      * Orthopedics
+      * Sports medicine
+      * Rehabilitation
+    * Post-Acute Care Institute
+      * Pharmacy
+      * Skilled nursing & home health
+    *  
+    * Surgical Institute
+      * Surgery
+      * Bariatric surgery
+    * Women's & Children's Health Institute
+      * Breast health
+      * Maternity care
+      * OB-GYN
+      * Pediatrics
+      * Pediatric speciality & acute care
+    * Novant Health imaging
+    * View more services
+
+    * Pay your bill
+    * Find a doctor
+    * Accepted insurance
+
+  * Our doctors
+
+  * Patients & visitors
+
+    * Hospital stays
+      * Online preregistration
+    * Visitor information
+      * Interpreter services
+      * Send a personalized card
+      * Patient privacy (HIPAA) & health information disclosure
+      * Organ & tissue donation
+    * Cafeteria menus
+    * Caregiver resources
+    * Choices and Champions
+    * Classes, events & tours
+    * Community Voice
+    * Contact center
+    * MyChart
+    * Your healthcare costs
+      * Billing & insurance
+      * Patient Bill of Rights
+      * Cost estimates
+      * Financial assistance for the uninsured
+      * How care setting affects your cost
+      * The unseen costs of care
+    * Health insurance marketplace
+    * E-visits
+    * Video visits
+    * Health video library
+    * Medical records
+      * Patients requesting medical records
+      * Third parties requesting medical records
+      * Medical records FAQs
+      * Medical records forms
+    * Shared decision making service
+    * Spiritual care
+    * Volunteer opportunities
+    * Donate now
+
+    * Pay your bill
+    * Find a doctor
+    * Accepted insurance
+
+  * About us
+
+Our locationsServicesOur doctorsPatients & visitorsAbout us
+
+-Select- Our locations Services Our doctors Patients & visitors About us  
+
+# Privacy statement
+
+Home
+
+###
+
+Locations
+
+  * Hospitals
+  * Clinics
+  * Imaging centers
+
+  * Emergency rooms
+  * Urgent care
+  * Express care
+
+###
+
+Services
+
+  * Behavioral health
+  * Breast health
+  * Cancer
+  * Pediatrics
+  * Emergency
+  * Heart & vascular
+
+  * Imaging
+  * Neurology & Neurosurgery
+  * Orthopedics
+  * Surgery
+  * Women’s health
+  *  **View all services**
+
+###
+
+Patients
+
+  * ER wait times
+  * Hold My Place urgent care
+  * MyChart
+  * Paying your bill
+
+  * Accepted insurance plans
+  * Financial assistance
+  * Health insurance marketplace
+  * Community benefit
+
+  * Like Us on Facebook
+  * Follow Us on Twitter
+  * Subscribe to us on YouTube
+  * Pinterest
+  * LinkedIn
+  * Instagram
+
+  * © 2020 Novant Health
+
+  * Contact center
+  * Privacy statement
+  * Digital privacy policy
+  * Patient bill of rights
+  * Notice of nondiscrimination
+  * Team member connections
+  * Employer services
+  * Vendor connections
+  * Novant Health Trustees
+
+# Original text
+
+Contribute a better translation
+
+* * *
+  "
+2,My Air Quality,"[It requires permission for location country postal code., It requires permission for location country., It requires permission for location.]","My Air Quality will report the air quality in your area. It requires permission for location (country and postal code) and works in the US only.
+
+Icon made by Freepik from Flaticon and is licensed by Creative Commons BY 3.0","
+
+## Privacy Policy
+
+We don’t store your data, period.
+
+​
+
+Our iPhone and Android mobile apps, our Amazon Echo Skills, our Facebook,
+Twitter and other Bots do not store any personal data.
+
+​
+
+You are safe.
+
+  * HOME
+  * privacy policy
+
+This site was designed with the
+
+.com
+
+website builder. Create your website today.Start Now
+
+  "
+1,Thought Leaders,[Permission required Customer's Full name.],"Say, “Alexa, enable thought leaders” and listen to the latest trends, tips and success stories from those who are changing the world with how they are shaping their industry, niche, or community. 
+
+When you enable this skill, you will hear updates on:
+
+-	The latest developments in setting your voice as a user interface strategy.
+
+-	The practical implementation of Amazon Alexa skills, Flash Briefings, and other tools in the Amazon Alexa platform used for businesses.
+
+-	The roadblocks, the growing pains, and mistakes you might make when developing your own Amazon Alexa skills.
+
+Once the skill is enabled, create an Alexa routine, add the Amazon Alexa for Business Flash briefing skill, and select the time you want to hear this flash briefing.
+
+This skill is to help your fundamental knowledge and development of Amazon Alexa for Business. It’s all about how you can attract new customers, generate leads, close sales, and make you more productive with Amazon Alexa for Business. Award winning professional speaker, author, and consultant Doug Devitre will help you transform the way you think about working with technology and give you a path to least resistance to make your life just a little easier.
+
+Organizations bring in Doug Devitre when they want to dramatically improve marketing, productivity, and sales performance with the latest technology.  He is changing the way consultants consult, coaches coach, and trainers train professionals with his creative approach to using technology focused on business outcomes.  
+
+The University of Missouri-Columbia Business School Entrepreneur of the Year, National Association of Realtors Business Specialties Hall of Fame Educator, and Certified Speaking Professional of the National Speakers Association brings a power-packed, innovative punch to managing organizational change outlined in his latest book Screen to Screen Selling: How to Increase Sales, Productivity, and the Customer Experience With the Latest Technology published by McGraw Hill.
+
+Just say Alexa, enable Power Prosperity Flash briefing to get started.
+
+Want more interaction with Doug Devitre?
+
+Enable the Doug on Demand skill and ask Alexa to do these things:
+
+-  Play the Alexa for Business Podcast
+
+-  Subscribe to the Alexa for Business Podcast 
+
+-  Technology tips to help you run your business more efficiently.
+
+-  Opt in to receiving updates by email on the latest trends.
+
+-  Play Doug’s Speaker Demo Video 
+
+-  Order a copy of Screen to Screen Selling.
+
+-  Request a brochure.
+
+
+Learn more about the Doug on Demand Amazon Alexa skill:
+
+https://voicemarketingforbusiness.com/skill
+
+Get your own skill developed:
+
+https://voicemarketingforbusiness.com/apply
+
+Permission required:
+- Customer's Full name : To greet users with their nam
+- Customer's Email Address : To add them to mailing list
+- Customer's Phone number : To add them to monthly messaging list","
+
+__
+
+##  Doug Devitre
+
+Menu
+
+  * About
+    * __Press
+    * Schedule Interview
+    * Printable Biography
+  * __Speaking
+  * __Consulting
+  * __ALEXA
+    * Voice Marketing for Business Facebook Group
+    * Podcast
+    * Voice Marketing for Business Coaching
+    * Get Your Own Flash Briefing Skill
+  * __FREE
+    * FREE Get Started Guide
+    * FREE Tech Buying Guide
+    * FREE Smart Home Guide
+    * __Blog
+  * __Shop
+  * __314.582.8808
+
+__  Home  __  Privacy Policy
+
+# Privacy Policy
+
+As a fellow Internet user myself, I totally respect your online privacy. So it
+goes without saying that I’m fully committed to safeguarding your online
+privacy while you’re here at http://DougDevitre.com.
+
+And that’s precisely why I’ve decided to include the following, which
+discloses the information gathering and dissemination practices for this
+website.
+
+**Log Files**
+
+Like most standard websites, this website uses log files. These include:
+Internet Protocol addresses (IP addresses), browser type, Internet Service
+Provider (ISP), referring/exit pages, platform type, date/time stamp, and the
+number of clicks to analyze trends, administer the site, track user movement
+in the aggregate, and to gather broad demographic information for aggregate
+use. IP addresses, etc., are not linked to personally identifiable
+information.
+
+**Web Cookies and Beacons**
+
+Web cookies (also known as HTTP cookies, or just cookies) are parcels of text
+that are sent by a server to a Web browser, and then sent back unchanged by
+the browser each time it accesses that server. In other words, a cookie is a
+piece of data stored on a user’s computer that is tied to information about
+the user.
+
+Web beacons are objects that are embedded in a webpage or email that are
+invisible to the user, but allow checking that a user has viewed the page or
+email. Other names are web bug, tracking bug, tag or page tag.
+
+This website does use cookies. Additionally, some of my business partners may
+use cookies and web beacons as well. This site has no access to, or control of
+advertisers’ web cookies or web beacons.
+
+If you wish to disable cookies, you may do so through your individual browser
+options. Please check your browser’s help section for instructions on how to
+do this.
+
+**Links**
+
+This website contains links to other websites. Please be aware that I am not
+responsible for the privacy practices of other websites. I encourage you, when
+you leave this website, to read the privacy policy (or privacy statement) of
+each and every website you visit, as this particular privacy policy applies
+solely to this particular website.
+
+**Advertisers**
+
+I use outside advertising networks and companies in order to display ads on
+this site. These ads may contain cookies and/or web beacons in order to
+collect data in the ad serving process. These such cookies and/or web beacons
+are collected by the companies and/or advertising networks, themselves. I do
+not have any access to this information.
+
+I currently work with several advertising networks and companies. If you have
+any questions, please check their websites for their respective privacy
+policies.
+
+**Webmaster Contact Information**
+
+If you have any questions or suggestions regarding http://DougDevitre.com
+privacy policy, please feel free to contact us at support @ Doug Devitre.com.
+
+### Share this:
+
+  * Share
+  * 
+
+  * Email
+  *   *   *   * Share
+
+  *   * Print
+  * 
+
+### Like this:
+
+Like Loading...
+
+###
+
+### Add a Comment
+
+Cancel reply
+
+You must be logged in to post a comment.
+
+This site uses Akismet to reduce spam. Learn how your comment data is
+processed.
+
+### Book Doug Now
+
+### Buy Book Now
+
+### Voice Marketing for Business Podcast
+
+### FREE Voice Guides
+
+### In The News
+
+### Innovations To Inbox
+
+Enter your email address to subscribe to this blog and receive notifications
+of new posts by email.
+
+Email Address
+
+Subscribe
+
+  *   *   * 
+Follow us on Twitter
+
+  * Buy Book
+  * Contact
+  * Press
+
+© Copyright 2020, Doug Devitre International, Inc.How can we make your
+experience better?
+
+  __
+
+%d bloggers like this:
+
+Menu
+
+  * About
+    * __Press
+    * Schedule Interview
+    * Printable Biography
+  * __Speaking
+  * __Consulting
+  * __ALEXA
+    * Voice Marketing for Business Facebook Group
+    * Podcast
+    * Voice Marketing for Business Coaching
+    * Get Your Own Flash Briefing Skill
+  * __FREE
+    * FREE Get Started Guide
+    * FREE Tech Buying Guide
+    * FREE Smart Home Guide
+    * __Blog
+  * __Shop
+  * __314.582.8808
+
+Send to Email Address Your Name Your Email Address Cancel
+
+Post was not sent - check your email addresses!
+
+Email check failed, please try again
+
+Sorry, your blog cannot share posts by email.
+
+  "
+1,Best Roomies,"[The skill requires access to your name., The skill requires access to name email.]","Taking out your mobile device just to add a few bucks is sometimes an overkill.
+Expenses apps cost a lot of money and sometimes some of the roommates devices are not supported.
+
+Best Roomies is a simple yet effective skill to help you get your expenses split fairly among roommates.
+
+In order to add new payments, you must be part of an household, so if you are the first roommate in your household to use the skill, first say:
+""Alexa, ask Best Roomies to create a new household""
+
+Once the household is created, you can add new payments by saying, for example:
+""Alexa, tell Best Roomies I paid 20 dollars for groceries"".
+If you did a mistake, you can undo the last payments by saying:
+""Alexa, ask Best Roomies to undo""
+
+If you want to know the amount you paid you can say:
+""Alexa, ask Best Roomies how much I paid this month"" or ""Alexa, ask Best Roomies how much I paid in April"". or ""Alexa, ask Best Roomies for my monthly summary"".
+
+To get the household summary, just ask:
+""Alexa, ask Best Roomies for household monthly summary"" or ""Alexa, ask Best Roomies to get household summary for March"".
+
+If you want to get a detailed report of your payments, you can ask, for example:
+""Alexa, ask Best Roomies to send my monthly summary"" or ""Alexa, ask Best Roomies to send me my payments for May"".
+If you want to get the payments made by all the roommates, ask for example:
+""Alexa, ask Best Roomies to send me the household monthly summary"" or ""Alexa, ask Best Roomies to send me the household payments for March"".
+Notice: asking the skill to send you the payments report will ask you to give the skill Account Linking permission in order to get your email address.
+No usage other then sending the report will be used and the data will not be stored anywhere.
+
+If you are moving out, you can ask Alexa to leave the household:
+""Alexa, ask Best Roomies to leave the household"". 
+Notice this will delete all your payments, so be sure to settle them first ;)
+
+The skill requires access to your name and email. 
+Both will be used for your summary reports ONLY (upon request).","
+
+### This privacy policy discloses the privacy practices for:
+
+  
+Best Roomies Skill  
+  
+This privacy policy applies solely to information collected by this software.  
+It will notify you of the following:  
+What personally identifiable information is collected from you through the
+skill, how it is used and with whom it may be shared.  
+  
+What choices are available to you regarding the use of your data.  
+The security procedures in place to protect the misuse of your information.  
+How you can correct any inaccuracies in the information.  
+
+### Information Collection, Use, and Sharing
+
+We are the sole owners of the information collected by this skill. We only
+have access to/collect information that you voluntarily give us via the use of
+this skill or other direct contact from you. We will not sell or rent this
+information to anyone.  
+We will use your information to respond to you, regarding the reason you
+contacted us. We will not share your information with any third party outside
+of our organization, other than as necessary to fulfill your request, e.g. to
+ship an order.  
+
+### Your Access to and Control Over Information
+
+You may opt out of any future contacts from us at any time. You can do the
+following at any time by disabling the Alexa skill on your Amazon account.  
+
+### Security
+
+We take precautions to protect your information. When you submit sensitive
+information via the Alexa service, your information is protected both online
+and offline.  
+While we use encryption to protect sensitive information transmitted online,
+we also protect your information offline. Only employees who need the
+information to perform a specific job (for example, billing or customer
+service) are granted access to personally identifiable information. The
+computers/servers in which we store personally identifiable information are
+kept in a secure environment.  
+
+### Updates
+
+Our Privacy Policy may change from time to time and all updates will be posted
+on this page.  
+If you feel that we are not abiding by this privacy policy, you should contact
+us immediately via email at contact@calendarstatus.info
+
+  "
+0.5,Arm My Guardzilla,[you need account with at least one Guardzilla security camera.],"You can use this Alexa Skill to arm and disarm your Guardzilla cameras. Link your account using the Alexa app, set a pin number and then say 'Alexa tell guardzilla I am leaving' or ' Alexa tell guardzilla I am home' and your Guardzilla will arm or disarm. 
+
+To use this skill you need a Guardzilla account with at least one Guardzilla security camera. Guardzilla offers a range of different home security cameras that feature up to 360 degrees of high definition video, motion alerts, cloud storage and much more.","
+
+Limited time offer! 30-day video cloud storage for only $5.99/month. View
+Details
+
+ __
+
+Menu
+
+  * Shop Now
+  * Products
+    * 360 Outdoor
+
+New! 180 Outdoor
+
+360 Indoor
+
+180 Indoor
+
+Outdoor Camera
+
+Indoor Camera
+
+Video Cloud Storage Plans __Professional Security Monitoring __
+
+  * What’s New
+  * Support
+
+__0
+
+Product was added to your cart
+
+## Cart
+
+No products in the cart.
+
+0
+
+  *   * 
+
+Head Spinning!
+
+360° Inside & Out
+
+See and Protect Your  
+Whole World in 360 Degrees
+
+Shop Now
+
+## Head Spinning!
+
+## 360° Inside & Out
+
+## See and Protect Your  
+Whole World in 360 Degrees
+
+Shop Now
+
+ __
+
+#### 180 Indoor
+
+180° HD Video, 100dB siren, Night Vision, 2-Way Talk/Listen
+
+Learn More
+
+#### Outdoor HD Camera
+
+Weatherproof, HD Video, AC/DC Power
+
+Learn More
+
+#### Indoor HD Camera
+
+HD Video, 100dB Siren, Night Vision, Auto-Arm
+
+Learn More
+
+#### 360 Outdoor
+
+360° HD Video, AC/DC Power, 2-Way Talk/Listen, 90dB alarm
+
+Learn More
+
+#### New! 180 Outdoor
+
+180° HD Video, AC/DC Power, Night Vision, 2-Way Talk/Listen
+
+Learn More
+
+#### 360 Indoor
+
+360° HD Video, 2-Way Talk/Listen, 100dB Siren
+
+Learn More
+
+#### 180 Indoor
+
+180° HD Video, 100dB siren, Night Vision, 2-Way Talk/Listen
+
+Learn More
+
+#### Outdoor HD Camera
+
+Weatherproof, HD Video, AC/DC Power
+
+Learn More
+
+#### Indoor HD Camera
+
+HD Video, 100dB Siren, Night Vision, Auto-Arm
+
+Learn More
+
+#### 360 Outdoor
+
+360° HD Video, AC/DC Power, 2-Way Talk/Listen, 90dB alarm
+
+Learn More
+
+#### New! 180 Outdoor
+
+180° HD Video, AC/DC Power, Night Vision, 2-Way Talk/Listen
+
+Learn More
+
+#### 360 Indoor
+
+360° HD Video, 2-Way Talk/Listen, 100dB Siren
+
+Learn More
+
+__
+
+## Guardzilla In the News
+
+13 High-Tech Gifts to Get Dad for Father’s Day
+
+Men’s Journal
+
+Guardzilla 360 Security Camera Breakthrough Named a CES 2018 Innovation Award
+Honoree
+
+Yahoo
+
+Guardzilla 360-Degree Indoor/Outdoor Battery/Electric Cam Can Do It All
+
+Digital Trends
+
+## Security and Monitoring Solutions for Your Life
+
+  * Smart Security 
+
+Guardzilla’s family of products deliver crystal-clear, live HD video, inside
+and outside of your home, up to 360 degree views, automatic arming, night
+vision, two-way audio, instant motion alerts, cloud video recording, and much
+more. Smart.
+
+  * Always in Touch 
+
+We all want to know what’s going on at home when we’re not there, to know that
+our loved ones are safe. Guardzilla offers instant live access to home from
+your smartphone to give you peace of mind.
+
+  * Dog and Pony Show 
+
+Dog, cat (and even pony) owners love to use Guardzilla to check in on their
+pets, whether it’s to see what mischief they’re into, gush over them, take a
+picture or video, or even use the microphone to tell Sparky to get off the
+couch.
+
+  * Who's at the Door? 
+
+Set Guardzilla’s motion sensors and get motion alerts and video day and night
+when the delivery man, babysitter or kids arrive (or leave). Not expecting
+anyone? Arm Guardzilla’s 100 dB siren and greet intruders with an ear-
+splitting alarm.
+
+  * Mind Your Business 
+
+Keep tabs on your business from wherever you are with Guardzilla. Observe your
+store or office 24/7 with our live HD cameras, record video, use the 100 db
+siren as a burglar alarm, and more.
+
+## Guardzilla Features
+
+ __
+
+### Two-Way Talk
+
+Guardzilla’s 180° and 360° products feature full duplex audio, which enables
+live 2-way conversations.
+
+### Weatherproof
+
+Our Outdoor HD cameras are built to withstand the harshest weather conditions.
+
+### Cloud Storage
+
+All motion detection videos are stored in the cloud and accessible from your
+smartphone.
+
+### Professional Monitoring
+
+Want even more security? Our professional monitoring service will call your
+emergency contacts and the police when you can’t.
+
+### Live 360° HD Video
+
+Guardzilla’s 360° products let you see every square inch of the room in live
+panoramic HD video.
+
+### PIR 360° Motion Detection
+
+Precision PIR motion sensors detect motion in every direction and instantly
+send alerts to your phone.
+
+### 100dB Siren
+
+Arm the ear-splitting siren with the push of a button to deter intruders.
+
+### Auto Arm
+
+Set auto arm to automatically arm your camera when you leave and disarm upon
+your return.
+
+### 360° Night Vision
+
+Infrared sensors let you see clear video images in 360 degrees at night and in
+dark, shaded areas.
+
+### HD Video
+
+Watch live, 1080p HD video on your smartphone from wherever you are.
+
+### Two-Way Talk
+
+Guardzilla’s 180° and 360° products feature full duplex audio, which enables
+live 2-way conversations.
+
+### Weatherproof
+
+Our Outdoor HD cameras are built to withstand the harshest weather conditions.
+
+### Cloud Storage
+
+All motion detection videos are stored in the cloud and accessible from your
+smartphone.
+
+### Professional Monitoring
+
+Want even more security? Our professional monitoring service will call your
+emergency contacts and the police when you can’t.
+
+### Live 360° HD Video
+
+Guardzilla’s 360° products let you see every square inch of the room in live
+panoramic HD video.
+
+### PIR 360° Motion Detection
+
+Precision PIR motion sensors detect motion in every direction and instantly
+send alerts to your phone.
+
+### 100dB Siren
+
+Arm the ear-splitting siren with the push of a button to deter intruders.
+
+### Auto Arm
+
+Set auto arm to automatically arm your camera when you leave and disarm upon
+your return.
+
+__
+
+## Security Made Simple
+
+Protecting and monitoring your home’s interior or exterior from your
+smartphone couldn’t be easier with Guardzilla’s simple, intuitive app. And if
+you want to use multiple Guardzilla products to protect your home, inside and
+out, don’t worry… managing multiple cameras from the app is a snap!
+
+Arm/Disarm
+
+Monitor
+
+Event History
+
+Settings
+
+Camera List
+
+Extras
+
+##### Arm/Disarm
+
+Arm and disarm your camera’s motion sensors (and the instant phone alert
+function) with the push of a button. Auto-arming is available for automatic
+arming/disarming.
+
+##### Monitor
+
+Use your smartphone to monitor live HD video, take images and communicate with
+anyone in the monitored area.
+
+##### Event History
+
+All motion events are captured in 8-second video clips and retained for two
+days for free. Cloud storage options provide longer video retention options.
+
+##### Settings
+
+Settings lets you choose your phone notification preference (email or push)
+when motion is detected, and much, much more.
+
+##### Camera List
+
+The Camera List lets you quickly connect to your other Guardzilla cameras, add
+new cameras, and share cameras with others.
+
+##### Extras
+
+Go to the Extras area to take advantage of our enhanced security and video
+storage programs for even greater protection and peace of mind.
+
+## Cloud Storage
+
+### Guardzilla's video cloud storage gives you peace of mind.
+
+If you miss a motion event alert, don’t worry, we have you covered.
+Guardzilla’s Video Cloud Storage service retains 8 second video clips of all
+motion events for two days – for free!
+
+If you’re looking for longer motion event videos with audio that are stored
+for as long as a month, we offer subscription programs for as low as $4.99 a
+month.
+
+View Cloud Storage Plans
+
+## Works With Guardzilla
+
+##### Looking to make your smart home safer? Guardzilla is compatible with
+these Connected Home platforms.
+
+__
+
+__
+
+##### Products
+
+360 Outdoor
+
+180 Outdoor
+
+360 Indoor
+
+180 Indoor
+
+Outdoor HD Camera
+
+Indoor HD Camera
+
+Video Cloud Storage
+
+Professional Security Monitoring
+
+##### Company
+
+About Us
+
+What’s New
+
+Press & Media
+
+Investor Relations
+
+##### Support
+
+Customer Support
+
+Facebook
+
+Twitter
+
+YouTube
+
+© 2018 Guardzilla
+
+Privacy Policy | Terms of Use
+
+Menu
+
+  "
+1,What Should I Wear,[This app requires address permission.],"Updated to give more accurate forecast of today's weather!
+
+Say ""Open What Should I Wear"" and I will let you know what you should wear for the weather! I will also give temperature, humidity and general weather forecast. This app requires address permission (zip code and country only) to get weather details for your city. This app uses the temperature units setting in your Alexa app.
+
+Any feedback is welcome. Thank you!","
+
+## Privacy Policy
+
+Aiza Soriano built the What Should I Wear app as a Free app. This SERVICE is
+provided by Aiza Soriano at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding my policies with the
+collection, use, and disclosure of Personal Information if anyone decided to
+use my Service.
+
+If you choose to use my Service, then you agree to the collection and use of
+information in relation to this policy. The Personal Information that I
+collect is used for providing and improving the Service. I will not use or
+share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms
+and Conditions, which is accessible at What Should I Wear unless otherwise
+defined in this Privacy Policy.
+
+**Information Collection and Use**
+
+For a better experience, while using our Service, I may require you to provide
+us with certain personally identifiable information. The information that I
+request will be retained on your device and is not collected by me in any way.
+
+The app does use third party services that may collect information used to
+identify you.
+
+Link to privacy policy of third party service providers used by the app
+
+  * Google Play Services
+
+**Log Data**
+
+I want to inform you that whenever you use my Service, in a case of an error
+in the app I collect data and information (through third party products) on
+your phone called Log Data. This Log Data may include information such as your
+device Internet Protocol (“IP”) address, device name, operating system
+version, the configuration of the app when utilizing my Service, the time and
+date of your use of the Service, and other statistics.
+
+**Cookies**
+
+Cookies are files with a small amount of data that are commonly used as
+anonymous unique identifiers. These are sent to your browser from the websites
+that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use
+third party code and libraries that use “cookies” to collect information and
+improve their services. You have the option to either accept or refuse these
+cookies and know when a cookie is being sent to your device. If you choose to
+refuse our cookies, you may not be able to use some portions of this Service.
+
+**Service Providers**
+
+I may employ third-party companies and individuals due to the following
+reasons:
+
+  * To facilitate our Service;
+  * To provide the Service on our behalf;
+  * To perform Service-related services; or
+  * To assist us in analyzing how our Service is used.
+
+I want to inform users of this Service that these third parties have access to
+your Personal Information. The reason is to perform the tasks assigned to them
+on our behalf. However, they are obligated not to disclose or use the
+information for any other purpose.
+
+**Security**
+
+I value your trust in providing us your Personal Information, thus we are
+striving to use commercially acceptable means of protecting it. But remember
+that no method of transmission over the internet, or method of electronic
+storage is 100% secure and reliable, and I cannot guarantee its absolute
+security.
+
+**Links to Other Sites**
+
+This Service may contain links to other sites. If you click on a third-party
+link, you will be directed to that site. Note that these external sites are
+not operated by me. Therefore, I strongly advise you to review the Privacy
+Policy of these websites. I have no control over and assume no responsibility
+for the content, privacy policies, or practices of any third-party sites or
+services.
+
+**Children’s Privacy**
+
+These Services do not address anyone under the age of 13. I do not knowingly
+collect personally identifiable information from children under 13. In the
+case I discover that a child under 13 has provided me with personal
+information, I immediately delete this from our servers. If you are a parent
+or guardian and you are aware that your child has provided us with personal
+information, please contact me so that I will be able to do necessary actions.
+
+**Changes to This Privacy Policy**
+
+I may update our Privacy Policy from time to time. Thus, you are advised to
+review this page periodically for any changes. I will notify you of any
+changes by posting the new Privacy Policy on this page. These changes are
+effective immediately after they are posted on this page.
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not
+hesitate to contact me.
+
+This privacy policy page was created at privacypolicytemplate.net and
+modified/generated by App Privacy Policy Generator
+
+  "
+1,FortiRecorder,"[email/SMS sending methods required., who is ask is at <location.]","Ask FortiRecorder to identify who is at a location, change system modes, send snapshots, and receive the status of the system. A FortiRecorder system running release 2.6 is required for this skill.
+
+You can ask FortiRecorder to identify a person at a location by saying ""Alexa, ask FortiRecorder who is at <location>. Using facial recognition, Alexa will tell you the name of the person being observed by the FortiRecorder system. FortiRecorder Central is required to utilize the facial recognition feature.
+
+You can ask FortiRecorder to send a snapshot of a camera connected to the FortiRecorder by saying ""Alexa, ask FortiRecorder to send me a snapshot of the <location>"". By default, an email will be sent to you with the attached image. Alternatively you can send the image to a phone via SMS by saying ""Alexa, ask FortiRecorder to send me a snapshot of the <location> by sms"". Configuring email/SMS sending methods on the FortiRecorder system are required.
+
+You can change the operation modes of the FortiRecorder system by saying ""Alexa, ask FortiRecorder to enable <mode> mode"".
+
+You can also receive the status of the FortiRecorder system by asking ""Alexa, ask FortiRecorder for the status"".","
+
+In order to enable the Amazon Alexa feature on your Fortinet product, Fortinet
+must store and share with Amazon certain information about you that you
+provide to Fortinet through your use of your Fortinet product (such as your
+Amazon account information or your voice when the Alexa button is activated on
+FortiFone). Fortinet has no control or responsibility over Alexa, and your use
+of Alexa remains subject solely to Amazon’s terms. Fortinet may discontinue
+the Alexa feature at any time. Except as stated herein, Fortinet will continue
+to protect your information according to Fortinet’s then current Privacy
+Policy (https://www.fortinet.com/corporate/about-us/privacy.html).
+
+  "
+2,Flu Season,[ Device location permissions required.],This Alexa Skill will provide you with an estimated Influenza forecast for your county.  Device location permissions are required.,"
+
+  * Start here 
+
+#### Start here
+
+__
+
+#####  Privacy Policy Generator
+
+Generate a free Privacy Policy for your website or mobile app.
+
+__
+
+#####  Cookies Policy Generator
+
+Generate a free Cookies Policy for your website.
+
+__
+
+#####  Terms and Conditions Generator
+
+Generate a free Terms & Conditions agreement.
+
+__
+
+#####  EULA Generator
+
+Generate a free End-User License Agreement (EULA).
+
+__
+
+#####  Return & Refund Policy Generator
+
+Generate a free Return Policy or a free Refund Policy.
+
+__
+
+#####  Disclaimer Generator
+
+Generate a free Disclaimer or a free Disclosure.
+
+__
+
+#####  Cookie Consent
+
+Integrate a free Cookie Consent banner notice for ePrivacy Directive + GDPR.
+
+  * Why Us
+  * Pricing
+  * Blog
+  * Contact
+  * English
+
+German  English  Spanish  French  Italian  Dutch
+
+  1. PrivacyPolicies.com 
+  2. Generic 
+
+# Generic Privacy Policy
+
+Websites linking to this page have chosen to adopt this generic privacy policy
+as their own. This means that they agree to abide by the principles laid out
+below.
+
+© 2014-2019 PrivacyPolicies.com, the web's #1 Privacy Policy Generator.
+
+  
+
+Last updated: November 2014
+
+  
+
+## Information that is gathered from visitors
+
+In common with other websites, log files are stored on the web server saving
+details such as the visitor's IP address, browser type, referring page and
+time of visit.
+
+Cookies may be used to remember visitor preferences when interacting with the
+website.
+
+Where registration is required, the visitor's email and a username will be
+stored on the server.
+
+## How the Information is used
+
+The information is used to enhance the vistor's experience when using the
+website to display personalised content and possibly advertising.
+
+E-mail addresses will not be sold, rented or leased to 3rd parties.
+
+E-mail may be sent to inform you of news of our services or offers by us or
+our affiliates.
+
+## Visitor Options
+
+If you have subscribed to one of our services, you may unsubscribe by
+following the instructions which are included in e-mail that you receive.
+
+You may be able to block cookies via your browser settings but this may
+prevent you from access to certain features of the website.
+
+## Cookies
+
+Cookies are small digital signature files that are stored by your web browser
+that allow your preferences to be recorded when visiting the website. Also
+they may be used to track your return visits to the website.
+
+3rd party advertising companies may also use cookies for tracking purposes.
+
+## Google Ads
+
+Google, as a third party vendor, uses cookies to serve ads.
+
+Google's use of the DART cookie enables it to serve ads to visitors based on
+their visit to sites they visit on the Internet.
+
+Website visitors may opt out of the use of the DART cookie by visiting the
+Google ad and content network privacy policy.
+
+## Free Templates
+
+#####  Sample Privacy Policy Template
+
+In this article, we'll discuss the elements of a Privacy Policy and why it's
+required. Download our free Privacy Policy template.
+
+Read more
+
+#####  Sample Terms and Conditions Template
+
+There are many reasons why you should have a Terms and Conditions. Download
+our free Terms and Conditions template.
+
+Read more
+
+#####  Sample Cookies Policy Template
+
+Comply with ePrivacy Directive and GDPR by having a Cookies Policy. Download
+our free Cookies Policy template.
+
+Read more
+
+#####  GDPR Privacy Policy Template
+
+Discover what your Privacy Policy should look like with GDPR in mind. Download
+our free GDPR Privacy Policy template.
+
+Read more
+
+Start here
+
+  * Privacy Policy Generator
+  * Cookies Policy Generator
+  * Terms and Conditions Generator
+  * EULA Generator
+  * Return & Refund Policy Generator
+  * Disclaimer Generator
+  * Cookie Consent
+
+Company
+
+  * Why Us
+  * Pricing
+  * Blog
+  * Contact
+
+Legal
+
+  * Our Privacy Policy
+  * Our Terms of Use
+  * Our Disclaimer
+
+Language
+
+  * English
+
+German  English  Spanish  French  Italian  Dutch
+
+PrivacyPolicies.com © 2002 - 2020 All rights reserved
+
+____
+
+* * *
+
+Legal information, legal templates and legal policies are not legal advice.
+Please read the disclaimer.
+
+__
+
+  "
