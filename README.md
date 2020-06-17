@@ -35,40 +35,46 @@ The privacy policy and description can be found in folder dataset.
 
 The totally skill number in each category is:
 
-![Skill number of Alexa](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/numbers.png)
+![Skill and actions in categories](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/numbers.png)
 
 
 
 ## Major findings
 
-### short privacy policies
+### Short privacy policies:
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example2.png)
+There are many very short privacy policies which are not informative.
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example3.png)
+![Short privacy policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/short_policy.png)
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example4.png)
+### Broken links and incorrect URLs:
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example5.jpg)
+Not all voice-apps have a privacy policy URL. For those voice-apps that have provided a privacy policy URL, not every URL leads to the page containing a privacy policy.
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example6.jpg)
+![Broken_link](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/broken_link.png)
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example7.png)
+![Incorrect_link](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/promotionpage.png)
 
-![Types of good privacy policy page](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example8.png)
+### Duplicate URLs:
 
-## Result
+A substantial portion of privacy policies share same URLs. For the top 5 developers who published the most skills with a privacy policy, 99.8% of their skills use duplicate URLs.
 
+![Duplicate_link](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/duplicate.png)
 
-Here are some result about problematic skills:
+### Official voice-apps:
 
-(1) Some skills have imcomplate policy:
+There are Google and Amazon’s official voice-apps violating their own requirements.
 
-![Types of inomplete skills](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/incomplete.png)
+![Official_apps](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/official.png)
 
-And here is an example of them. It asks for device location but not mentions in privacy policy.
+### Privacy with zero data practice:
 
-![Example of incomplete skill](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example1.png)
+![zero_data_pracatice](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/zero_data_practice.png)
+
+### Incomplete privacy policy:
+
+![Incomplete_privacy_policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/incomplete.png)
+
 
 Here is the skill link and some other example skills:
 
@@ -78,18 +84,21 @@ Here is the skill link and some other example skills:
 
 [Running Outfit Advisor](https://www.amazon.com/CraftyC-Running-Outfit-Advisor/dp/B0735XW8LM/ref=sr_1_1?crid=24ZNWXDR4FZKZ&keywords=running+outfit+advisor&qid=1582232728&s=digital-skills&sprefix=Running+outfit+%2Calexa-skills%2C143&sr=1-1)
 
+### Lacking privacy policy:
+
+![Lacking_privacy_policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/lack_policy.png)
 
 
-(2) Some skills should provide a privacy policy but not:
-
-![Types of no_policy skills](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example10.jpg)
-
-And here is an example:
-
-![Example of no_policy skill](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image/example9.png)
 
 Here is skill link and andother example skills:
 
 [Heritage Flag Color](https://www.amazon.com/Thomas-Anderson-Heritage-Flag-Color/dp/B01MR9JBWU/ref=sr_1_1?keywords=heritage+flag+color&qid=1582233183&s=digital-skills&sr=1-1)
 
 [Name My Grandkids](https://www.amazon.com/Cooper-Name-My-Grandkids/dp/B01EW3KUXC/ref=sr_1_1?keywords=name+my+grandkids&qid=1582233215&s=digital-skills&sr=1-1)
+
+### User study:
+
+![User_study](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/user_study.png)
+
+
+
