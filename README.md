@@ -2,18 +2,9 @@
 
 ## Introduction
 
-In this work, we mainly investigate the following three research questions (RQs):
-
-* RQ1: What is the overall quality of privacy policies provided by voice-app developers in different VA platforms? Do they provide informative and meaningful privacy policies as required by VA platforms?
-
-* RQ2: For a seemingly well-written privacy policy that contains vital information regarding the service provided to users, can we trust it or not? Can we detect inconsistent privacy policies of voice-apps?
-
-* RQ3: What are VA users’ perspectives on privacy policies of voice-apps? What is possibly a better usability choice for VA users to make informed privacy decisions?
-
-
 We conduct the first empirical analysis to measure the effectiveness of privacy policies provided by voice-app developers on both Amazon Alexa and Google Assistant platforms.The major contributions and findings are:
 
-* We analyze 64,720 Amazon Alexa skills and 2,201 Google Assistant actions. 
+* We analyze 64,720 Amazon Alexa skills and 2,201 Google Assistant actions about privacy policy. 
 
 * For the 17,952 skills and 1,967 actions that have a privacy policy, we find there are many voice-apps in app stores with incorrect privacy policy URLs or broken links. Google and Amazon even have official voice-apps violating their own requirements regarding the privacy policy.
 
@@ -21,7 +12,7 @@ We conduct the first empirical analysis to measure the effectiveness of privacy 
 
 * We conduct a user study with 91 participants to understand users’ perspectives on VA’s privacy policies and discuss solutions to improve the usability of privacy notices to VA users.
 
-We have reported our findings to both Amazon Alexa and Google Assistant teams, and Federal Trade Commission (FTC) researchers. We had an online meeting with Amazon security team discussing the problems we discovered in May 2020. We have also received acknowledgments from Google Trust & Safety team in June 2020. We are working with the vendors to provide users with effective privacy notices.
+We have reported our findings to both Amazon Alexa and Google Assistant teams, and Federal Trade Commission (FTC) researchers.
 
 
 
