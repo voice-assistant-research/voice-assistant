@@ -71,12 +71,14 @@ There are Google and Amazon’s official voice-apps violating their own requirem
 
 ![zero_data_pracatice](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/zero_data_practice.png)
 
-### Incomplete privacy policy:
+### inconsistency between privacy policy and description:
+
+Some voice-apps describe data collection in the description but not mentione in privacy policy.
 
 ![Incomplete_privacy_policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/incomplete.png)
 
 
-Here is the skill link and some other example skills:
+Here are some example skills link:
 
 [Record-Journal - Things to Do Calendar](https://www.amazon.com/Record-Journal-Things-to-Do-Calendar/dp/B07NC478M9/ref=sr_1_1?keywords=record+journal&qid=1582232641&s=digital-skills&sr=1-1)
 
@@ -88,9 +90,7 @@ Here is the skill link and some other example skills:
 
 ![Lacking_privacy_policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/lack_policy.png)
 
-
-
-Here is skill link and andother example skills:
+Here are some example skills link:
 
 [Heritage Flag Color](https://www.amazon.com/Thomas-Anderson-Heritage-Flag-Color/dp/B01MR9JBWU/ref=sr_1_1?keywords=heritage+flag+color&qid=1582233183&s=digital-skills&sr=1-1)
 
