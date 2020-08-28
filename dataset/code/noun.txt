@@ -1,1 +1,1 @@
-address,name,email,phone,list,pay,birthday,age,gender,reminder,location,datum,contact,phonebook,SMS,call,microphone,camera,professonal,income,information
+address,name,email,phone,birthday,age,gender,location,datum,contact,phonebook,SMS,call,profession,income
