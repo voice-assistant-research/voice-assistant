@@ -14,9 +14,9 @@ def readfile(name):
 
 def getpolicycontent():
 	policy={}
-	b=os.listdir('../dataset/skill_privacy_policy/')
+	b=os.listdir('privacy_policy/')
 	for i in b:
-		f=open('../dataset/skill_privacy_policy/'+i,'r',encoding='iso-8859-15')
+		f=open('privacy_policy/'+i,'r',encoding='iso-8859-15')
 		a=f.read()
 		f.close()
 		policy[i[:-4]]=a
