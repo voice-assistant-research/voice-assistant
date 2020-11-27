@@ -4,9 +4,9 @@
 
 We conduct the first empirical analysis to measure the effectiveness of privacy policies provided by voice-app developers on both Amazon Alexa and Google Assistant platforms. The major contributions and findings are:
 
-* We analyze 64,720 Amazon Alexa skills and 2,201 Google Assistant actions about privacy policy. 
+* We analyze 64,720 Amazon Alexa skills and 16,002 Google Assistant actions about privacy policy. 
 
-* For the 17,952 skills and 1,967 actions that have a privacy policy, we find there are many voice-apps in app stores with incorrect privacy policy URLs or broken links. Google and Amazon even have official voice-apps violating their own requirements regarding the privacy policy.
+* For the 17,952 skills and 9,955 actions that have a privacy policy, we find there are many voice-apps in app stores with incorrect privacy policy URLs or broken links. Google and Amazon even have official voice-apps violating their own requirements regarding the privacy policy.
 
 * We analyze the privacy policy content to identify potential inconsistencies between policies and voice-apps. We find there are privacy policies that are inconsistent with the corresponding skill descriptions. We also find skills which are supposed to have a privacy policy but do not provide one.
 
@@ -18,9 +18,9 @@ We have reported our findings to both Amazon Alexa and Google Assistant teams, a
 
 ## Dataset
 
-We collected 64,720 unique Amazon skills from 21 categories and 2,201 Google actions from 18 categories. 
+We collected 64,720 unique Amazon skills from 21 categories and 16,002 Google actions from 18 categories. 
 
-Among them, 17,952 skills and 1,967 actions provide a privacy policy link. 
+Among them, 17,952 skills and 9,955 actions provide a privacy policy link. 
 
 The privacy policy and description can be found in folder dataset.
 
